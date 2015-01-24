@@ -23,7 +23,7 @@
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
 <DL><P>
-<DT><A HREF="http://code.google.com/p/afinal/" ADD_DATE="97904862771">afinal - afinal 是一个android的 orm 和 ioc 框架。通过afinal的finalAcitivity,finalBitmap,finalDB,finalHttp，开发android应用将更加简单。 - Google Project Hosting</A>
+<DT><A HREF="http://code.google.com/p/afinal/" ADD_DATE="97904862771">afinal</A>
 <DT><A HREF="https://github.com/loopj/android-async-http" ADD_DATE="97904862771">loopj/android-async-http · GitHub</A>
 
 <DT><A HREF="https://github.com/androidquery/androidquery" ADD_DATE="97904862771">androidquery/androidquery · GitHub</A>
