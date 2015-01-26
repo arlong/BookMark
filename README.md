@@ -104,4 +104,6 @@
 <DT><A HREF="https://github.com/android-cn" ADD_DATE="96440789165">android-cn</A>
 <DT><A HREF="https://github.com/guojunyi/HamburgerButton_android" ADD_DATE="95399943356">guojunyi/HamburgerButton_android</A>
 <DT><A HREF="https://github.com/zym2014/MingQQ" ADD_DATE="96440789165">zym2014/MingQQ</A>
+<DT><A HREF="https://github.com/astuetz/PagerSlidingTabStrip" ADD_DATE="96440789165">PagerSlidingTabStrip</A>
+<DT><A HREF="https://github.com/kmshack/Android-ParallaxHeaderViewPager" ADD_DATE="96440789165">Android-ParallaxHeaderViewPager</A>
 </DL><P>
