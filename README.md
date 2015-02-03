@@ -18,23 +18,22 @@
 <DT><A HREF="http://git.oschina.net/oschina/android-app" ADD_DATE="97904862771">oschina / android-app - 代码托管 - 开源中国社区</A>
 <DT><A HREF="http://www.code4app.com/" ADD_DATE="97904862771">Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载-Code4App.com</A>
 <DT><A HREF="http://blog.daimajia.com/" ADD_DATE="97904862771">代码家</A>
+<DT><A HREF="http://stackoverflow.com/" ADD_DATE="97904862771">Stack Overflow</A>
+<DT><A HREF="http://www.codeproject.com/" ADD_DATE="97904862771">TheCodeProject[英]</A>
+<DT><A HREF="http://asmack.freakempire.de/" ADD_DATE="97904862771">http://asmack.freakempire.de/</A>
 </DL><P>
 
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
 <DL><P>
-<DT><A HREF="http://code.google.com/p/afinal/" ADD_DATE="97904862771">afinal</A>
 <DT><A HREF="https://github.com/loopj/android-async-http" ADD_DATE="97904862771">loopj/android-async-http · GitHub</A>
 
 <DT><A HREF="https://github.com/androidquery/androidquery" ADD_DATE="97904862771">androidquery/androidquery · GitHub</A>
 <DT><A HREF="https://github.com/yangfuhai/afinal" ADD_DATE="97904862771">yangfuhai/afinal · GitHub</A>
 <DT><A HREF="https://github.com/Flowdalic/asmack" ADD_DATE="97904862771">Flowdalic/asmack · GitHub</A>
 <DT><A HREF="https://github.com/frapontillo/ImageViewEx" ADD_DATE="97904862771">frapontillo/ImageViewEx · GitHub</A>
-<DT><A HREF="http://stackoverflow.com/" ADD_DATE="97904862771">Stack Overflow</A>
-<DT><A HREF="http://www.codeproject.com/" ADD_DATE="97904862771">TheCodeProject[英]</A>
 <DT><A HREF="https://github.com/nostra13/Android-Universal-Image-Loader" ADD_DATE="97904862771">nostra13/Android-Universal-Image-Loader · GitHub</A>
 <DT><A HREF="https://github.com/GinRyan/OneXListview" ADD_DATE="97904862771">GinRyan/OneXListview · GitHub</A>
-<DT><A HREF="http://asmack.freakempire.de/" ADD_DATE="97904862771">http://asmack.freakempire.de/</A>
 <DT><A HREF="https://github.com/wyouflf/xUtils" ADD_DATE="97904862771">wyouflf/xUtils · GitHub</A>
 <DT><A HREF="https://github.com/GeekZooStudio" ADD_DATE="97904862771">GeekZooStudio (GeekZooStudio) · GitHub</A>
 <DT><A HREF="https://github.com/Trinea/AndroidDemo" ADD_DATE="97904862771">Trinea/AndroidDemo · GitHub</A>
