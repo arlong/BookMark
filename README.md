@@ -111,4 +111,5 @@
 <DT><A HREF="https://github.com/wasabeef/recyclerview-animators" ADD_DATE="96440789165">recyclerview-animators</A>
 <DT><A HREF="https://github.com/arpit/Artbook" ADD_DATE="96440789165">Artbook</A>
 <DT><A HREF="https://github.com/nicewarm/WeChatImageClipping" ADD_DATE="96440789165">WeChatImageClipping</A>
+<DT><A HREF="https://github.com/qiujuer/Genius-Android" ADD_DATE="96440789165">Genius-Android</A>
 </DL><P>
