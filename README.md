@@ -23,6 +23,10 @@
 <DT><A HREF="http://asmack.freakempire.de/" ADD_DATE="97904862771">http://asmack.freakempire.de/</A>
 </DL><P>
 
+<DT><H3 FOLDED ADD_DATE="97904862771">open-source-project-analysis</H3>
+<DL><P>
+<DT><A HREF="http://codekk.com/open-source-project-analysis" ADD_DATE="97904862771">open-source-project-analysis</A>
+</DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
 <DL><P>
