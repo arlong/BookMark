@@ -117,6 +117,8 @@
 <DT><A HREF="https://github.com/nicewarm/WeChatImageClipping" ADD_DATE="96440789165">WeChatImageClipping</A>
 <DT><A HREF="https://github.com/qiujuer/Genius-Android" ADD_DATE="96440789165">Genius-Android</A>
 <DT><A HREF="https://github.com/zarics/ZrcListView" ADD_DATE="96440789165">ZrcListView</A>
+<DT><A HREF="https://github.com/chrisbanes/PhotoView" ADD_DATE="96440789165">PhotoView</A>
 <DT><A HREF="https://github.com/FrozenFreeFall/Android-tv-widget" ADD_DATE="96440789165">Android-tv-widget</A>
 <DT><A HREF="https://github.com/pedrovgs/TuentiTV" ADD_DATE="96440789165">TuentiTV</A>
+
 </DL><P>
