@@ -21,6 +21,7 @@
 <DT><A HREF="http://stackoverflow.com/" ADD_DATE="97904862771">Stack Overflow</A>
 <DT><A HREF="http://www.codeproject.com/" ADD_DATE="97904862771">TheCodeProject[英]</A>
 <DT><A HREF="http://asmack.freakempire.de/" ADD_DATE="97904862771">http://asmack.freakempire.de/</A>
+<DT><A HREF="https://android-arsenal.com/" ADD_DATE="97904862771">The Android Arsenal - A categorized directory of free libraries and tools for Android</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">open-source-project-analysis</H3>
@@ -56,7 +57,7 @@
 <DT><A HREF="https://github.com/rockerhieu/emojicon" ADD_DATE="97904862771">rockerhieu/emojicon · GitHub</A>
 <DT><A HREF="https://github.com/ApmeM/android-flowlayout" ADD_DATE="97904862771">ApmeM/android-flowlayout</A>
 <DT><A HREF="https://github.com/dcloudio/mui" ADD_DATE="97904862771">dcloudio/mui · GitHub</A>
-<DT><A HREF="https://github.com/JoanZapata/base-adapter-helper" ADD_DATE="97904862771">JoanZapata/base-adapter-helper</A>
+<DT><A HREF="https://github.com/JoanZapata/base-adapter-helper" ADD_DATE="97904862771">JoanZapata/base-adapter-helper · GitHub</A>
 <DT><A HREF="https://github.com/kymjs/KJFrameForAndroid" ADD_DATE="97904862771">kymjs/KJFrameForAndroid · GitHub</A>
 <DT><A HREF="https://github.com/card-io/card.io-Android-SDK" ADD_DATE="97904862771">card-io/card.io-Android-SDK · GitHub</A>
 <DT><A HREF="https://github.com/SpecialCyCi/AndroidResideMenu" ADD_DATE="97904862771">SpecialCyCi/AndroidResideMenu · GitHub</A>
@@ -67,7 +68,6 @@
 <DT><A HREF="https://github.com/MasDennis/RajawaliVuforia" ADD_DATE="97904862771">MasDennis/RajawaliVuforia · GitHub</A>
 <DT><A HREF="https://github.com/lixiaoyu0123/AutopackingAndroid" ADD_DATE="97904862771">lixiaoyu0123/AutopackingAndroid · GitHub</A>
 <DT><A HREF="https://github.com/flavienlaurent/NotBoringActionBar" ADD_DATE="97904862771">flavienlaurent/NotBoringActionBar · GitHub</A>
-<DT><A HREF="https://android-arsenal.com/" ADD_DATE="97904862771">The Android Arsenal - A categorized directory of free libraries and tools for Android</A>
 <DT><A HREF="https://github.com/pnikosis/materialish-progress" ADD_DATE="97904862771">pnikosis/materialish-progress · GitHub</A>
 <DT><A HREF="https://github.com/I-am-Reinvented/ToolbarMenudrawer" ADD_DATE="97904862771">I-am-Reinvented/ToolbarMenudrawer · GitHub</A>
 <DT><A HREF="https://github.com/johnkil/Android-ProgressFragment" ADD_DATE="97904862771">johnkil/Android-ProgressFragment · GitHub</A>
