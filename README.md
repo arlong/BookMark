@@ -121,5 +121,8 @@
 <DT><A HREF="https://github.com/FrozenFreeFall/Android-tv-widget" ADD_DATE="96440789165">Android-tv-widget</A>
 <DT><A HREF="https://github.com/pedrovgs/TuentiTV" ADD_DATE="96440789165">TuentiTV</A>
 <DT><A HREF="https://github.com/linroid/Sky31Radio" ADD_DATE="96440789165">Sky31Radio</A>
+<DT><A HREF="https://github.com/MostafaGazar/CustomShapeImageView" ADD_DATE="96440789165">CustomShapeImageView</A>
+<DT><A HREF="https://github.com/siyamed/android-shape-imageview" ADD_DATE="96440789165">android-shape-imageview</A>
+<DT><A HREF="https://github.com/davidschreiber/FancyCoverFlow" ADD_DATE="96440789165">FancyCoverFlow</A>
 
 </DL><P>
