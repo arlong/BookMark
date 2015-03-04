@@ -56,7 +56,7 @@
 <DT><A HREF="https://github.com/rockerhieu/emojicon" ADD_DATE="97904862771">rockerhieu/emojicon · GitHub</A>
 <DT><A HREF="https://github.com/ApmeM/android-flowlayout" ADD_DATE="97904862771">ApmeM/android-flowlayout</A>
 <DT><A HREF="https://github.com/dcloudio/mui" ADD_DATE="97904862771">dcloudio/mui · GitHub</A>
-<DT><A HREF="https://github.com/JoanZapata/base-adapter-helper/blob/master/base-adapter-helper/src/main/java/com/joanzapata/android/BaseQuickAdapter.java" ADD_DATE="97904862771">base-adapter-helper/BaseQuickAdapter.java at master · JoanZapata/base-adapter-helper · GitHub</A>
+<DT><A HREF="https://github.com/JoanZapata/base-adapter-helper" ADD_DATE="97904862771">JoanZapata/base-adapter-helper</A>
 <DT><A HREF="https://github.com/kymjs/KJFrameForAndroid" ADD_DATE="97904862771">kymjs/KJFrameForAndroid · GitHub</A>
 <DT><A HREF="https://github.com/card-io/card.io-Android-SDK" ADD_DATE="97904862771">card-io/card.io-Android-SDK · GitHub</A>
 <DT><A HREF="https://github.com/SpecialCyCi/AndroidResideMenu" ADD_DATE="97904862771">SpecialCyCi/AndroidResideMenu · GitHub</A>
