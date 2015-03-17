@@ -137,5 +137,7 @@
 <DT><A HREF="https://github.com/JoanZapata/android-pdfview" ADD_DATE="96440789165">android-pdfview</A>
 <DT><A HREF="https://github.com/saulmm/Android-Material-Examples" ADD_DATE="96440789165">Android-Material-Example</A>
 <DT><A HREF="https://github.com/NashLegend/SourceWall" ADD_DATE="96440789165">SourceWall</A>
+<DT><A HREF="https://github.com/2dxgujun/AndroidTagGroup" ADD_DATE="96440789165">AndroidTagGroup</A>
+<DT><A HREF="https://github.com/ToDou/MultiTagView" ADD_DATE="96440789165">MultiTagView</A>
 
 </DL><P>
