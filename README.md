@@ -142,4 +142,5 @@
 <DT><A HREF="https://github.com/Yalantis/Euclid" ADD_DATE="96440789165">Yalantis/Euclid</A>
 <DT><A HREF="https://github.com/pcqpcq/open-source-android-apps" ADD_DATE="96440789165">open-source-android-apps</A>
 <DT><A HREF="https://github.com/wordpress-mobile/WordPress-Android" ADD_DATE="96440789165">WordPress-Android</A>
+<DT><A HREF="https://github.com/JeremyHe-cn/android-app" ADD_DATE="96440789165">JeremyHe-cn/android-app(eoe)</A>
 </DL><P>
