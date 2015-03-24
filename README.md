@@ -148,4 +148,5 @@
 <DT><A HREF="https://github.com/pcqpcq/open-source-android-apps" ADD_DATE="96440789165">open-source-android-apps</A>
 <DT><A HREF="https://github.com/wordpress-mobile/WordPress-Android" ADD_DATE="96440789165">WordPress-Android</A>
 <DT><A HREF="https://github.com/JeremyHe-cn/android-app" ADD_DATE="96440789165">JeremyHe-cn/android-app(eoe)</A>
+<DT><A HREF="https://github.com/wang4yu6peng13/MaterialQQLite" ADD_DATE="96440789165">MaterialQQLite</A>
 </DL><P>
