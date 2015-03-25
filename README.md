@@ -117,6 +117,7 @@
 <DT><A HREF="https://github.com/android-cn" ADD_DATE="96440789165">android-cn</A>
 <DT><A HREF="https://github.com/guojunyi/HamburgerButton_android" ADD_DATE="95399943356">guojunyi/HamburgerButton_android</A>
 <DT><A HREF="https://github.com/zym2014/MingQQ" ADD_DATE="96440789165">zym2014/MingQQ</A>
+<DT><A HREF="https://github.com/wang4yu6peng13/MaterialQQLite" ADD_DATE="96440789165">MaterialQQLite</A>
 <DT><A HREF="https://github.com/astuetz/PagerSlidingTabStrip" ADD_DATE="96440789165">PagerSlidingTabStrip</A>
 <DT><A HREF="https://github.com/kmshack/Android-ParallaxHeaderViewPager" ADD_DATE="96440789165">Android-ParallaxHeaderViewPager</A>
 <DT><A HREF="https://github.com/ongakuer/ViewPagerHeaderScrollDemo" ADD_DATE="96440789165">ViewPagerHeaderScrollDemo</A>
@@ -148,5 +149,5 @@
 <DT><A HREF="https://github.com/pcqpcq/open-source-android-apps" ADD_DATE="96440789165">open-source-android-apps</A>
 <DT><A HREF="https://github.com/wordpress-mobile/WordPress-Android" ADD_DATE="96440789165">WordPress-Android</A>
 <DT><A HREF="https://github.com/JeremyHe-cn/android-app" ADD_DATE="96440789165">JeremyHe-cn/android-app(eoe)</A>
-<DT><A HREF="https://github.com/wang4yu6peng13/MaterialQQLite" ADD_DATE="96440789165">MaterialQQLite</A>
+<DT><A HREF="https://github.com/lecho/hellocharts-android" ADD_DATE="96440789165">hellocharts-android</A>
 </DL><P>
