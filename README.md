@@ -152,4 +152,5 @@
 <DT><A HREF="https://github.com/wordpress-mobile/WordPress-Android" ADD_DATE="96440789165">WordPress-Android</A>
 <DT><A HREF="https://github.com/JeremyHe-cn/android-app" ADD_DATE="96440789165">JeremyHe-cn/android-app(eoe)</A>
 <DT><A HREF="https://github.com/lecho/hellocharts-android" ADD_DATE="96440789165">hellocharts-android</A>
+<DT><A HREF="https://github.com/daimajia/AndroidViewHover" ADD_DATE="96440789165">AndroidViewHover</A>
 </DL><P>
