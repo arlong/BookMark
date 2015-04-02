@@ -154,4 +154,5 @@
 <DT><A HREF="https://github.com/lecho/hellocharts-android" ADD_DATE="96440789165">hellocharts-android</A>
 <DT><A HREF="https://github.com/daimajia/AndroidViewHover" ADD_DATE="96440789165">AndroidViewHover</A>
 <DT><A HREF="https://github.com/facebook/fresco" ADD_DATE="96440789165">facebook/fresco</A>
+<DT><A HREF="https://github.com/ogaclejapan/SmartTabLayout" ADD_DATE="96440789165">SmartTabLayout</A>
 </DL><P>
