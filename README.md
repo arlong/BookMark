@@ -156,4 +156,7 @@
 <DT><A HREF="https://github.com/facebook/fresco" ADD_DATE="96440789165">facebook/fresco</A>
 <DT><A HREF="https://github.com/ogaclejapan/SmartTabLayout" ADD_DATE="96440789165">SmartTabLayout</A>
 <DT><A HREF="https://github.com/QuadFlask/colorpicker" ADD_DATE="96440789165">QuadFlask/colorpicker</A>
+<DT><A HREF="https://github.com/linroid/FilterMenu" ADD_DATE="96440789165">linroid/FilterMenu</A>
+<DT><A HREF="https://github.com/hongyangAndroid/Android-CircleMenu" ADD_DATE="96440789165">Android-CircleMenu</A>
+<DT><A HREF="https://github.com/LukeDeighton/WheelView" ADD_DATE="96440789165">LukeDeighton/WheelView</A>
 </DL><P>
