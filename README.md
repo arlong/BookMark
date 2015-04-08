@@ -160,4 +160,5 @@
 <DT><A HREF="https://github.com/hongyangAndroid/Android-CircleMenu" ADD_DATE="96440789165">Android-CircleMenu</A>
 <DT><A HREF="https://github.com/LukeDeighton/WheelView" ADD_DATE="96440789165">LukeDeighton/WheelView</A>
 <DT><A HREF="https://github.com/qdrzwd/VideoRecorder" ADD_DATE="96440789165">VideoRecorder</A>
+<DT><A HREF="https://github.com/etsy/AndroidStaggeredGrid" ADD_DATE="96440789165">AndroidStaggeredGrid</A>
 </DL><P>
