@@ -161,4 +161,6 @@
 <DT><A HREF="https://github.com/LukeDeighton/WheelView" ADD_DATE="96440789165">LukeDeighton/WheelView</A>
 <DT><A HREF="https://github.com/qdrzwd/VideoRecorder" ADD_DATE="96440789165">VideoRecorder</A>
 <DT><A HREF="https://github.com/etsy/AndroidStaggeredGrid" ADD_DATE="96440789165">AndroidStaggeredGrid</A>
+<DT><A HREF="https://github.com/LuckyJayce/ListViewHelper" ADD_DATE="96440789165">ListViewHelper</A>
+<DT><A HREF="https://github.com/google/dagger" ADD_DATE="96440789165">google/dagger</A>
 </DL><P>
