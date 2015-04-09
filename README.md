@@ -163,4 +163,5 @@
 <DT><A HREF="https://github.com/etsy/AndroidStaggeredGrid" ADD_DATE="96440789165">AndroidStaggeredGrid</A>
 <DT><A HREF="https://github.com/LuckyJayce/ListViewHelper" ADD_DATE="96440789165">ListViewHelper</A>
 <DT><A HREF="https://github.com/google/dagger" ADD_DATE="96440789165">google/dagger</A>
+<DT><A HREF="https://github.com/romannurik/muzei" ADD_DATE="96440789165">romannurik/muzei</A>
 </DL><P>
