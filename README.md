@@ -164,4 +164,5 @@
 <DT><A HREF="https://github.com/LuckyJayce/ListViewHelper" ADD_DATE="96440789165">ListViewHelper</A>
 <DT><A HREF="https://github.com/google/dagger" ADD_DATE="96440789165">google/dagger</A>
 <DT><A HREF="https://github.com/romannurik/muzei" ADD_DATE="96440789165">romannurik/muzei</A>
+<DT><A HREF="https://github.com/Fichardu/CircleProgress" ADD_DATE="96440789165">Fichardu/CircleProgress</A>
 </DL><P>
