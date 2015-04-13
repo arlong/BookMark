@@ -166,4 +166,5 @@
 <DT><A HREF="https://github.com/romannurik/muzei" ADD_DATE="96440789165">romannurik/muzei</A>
 <DT><A HREF="https://github.com/Fichardu/CircleProgress" ADD_DATE="96440789165">Fichardu/CircleProgress</A>
 <DT><A HREF="https://github.com/grantland/android-autofittextview" ADD_DATE="96440789165">android-autofittextview</A>
+<DT><A HREF="https://github.com/jjobes/SlideDateTimePicker" ADD_DATE="96440789165">SlideDateTimePicker</A>
 </DL><P>
