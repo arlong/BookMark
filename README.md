@@ -172,4 +172,6 @@
 <DT><A HREF="https://github.com/Yalantis/FlipViewPager.Draco" ADD_DATE="96440789165">Yalantis/FlipViewPager.Draco</A>
 <DT><A HREF="https://github.com/Yalantis/Context-Menu.Android" ADD_DATE="96440789165">Yalantis/Context-Menu.Android</A>
 <DT><A HREF="https://github.com/Yalantis/Side-Menu.Android" ADD_DATE="96440789165">Yalantis/Side-Menu.Android</A>
+<DT><A HREF="https://github.com/ksoichiro/Android-ObservableScrollView" ADD_DATE="96440789165">Android-ObservableScrollView</A>
+<DT><A HREF="https://github.com/BlueMor/Android-PullLayout" ADD_DATE="96440789165">Android-PullLayout</A>
 </DL><P>
