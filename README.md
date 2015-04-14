@@ -168,4 +168,6 @@
 <DT><A HREF="https://github.com/Fichardu/CircleProgress" ADD_DATE="96440789165">Fichardu/CircleProgress</A>
 <DT><A HREF="https://github.com/grantland/android-autofittextview" ADD_DATE="96440789165">android-autofittextview</A>
 <DT><A HREF="https://github.com/jjobes/SlideDateTimePicker" ADD_DATE="96440789165">SlideDateTimePicker</A>
+<DT><A HREF="https://github.com/florent37/WearMenu" ADD_DATE="96440789165">florent37/WearMenu</A>
+<DT><A HREF="https://github.com/Yalantis/FlipViewPager.Draco" ADD_DATE="96440789165">FlipViewPager.Draco</A>
 </DL><P>
