@@ -24,6 +24,7 @@
 <DT><A HREF="https://android-arsenal.com/" ADD_DATE="97904862771">The Android Arsenal - A categorized directory of free libraries and tools for Android</A>
 <DT><A HREF="https://github.com/inferjay/AndroidDevTools" ADD_DATE="97904862771">AndroidDevTools</A>
 <DT><A HREF="https://github.com/kesenhoo/android-training-course-in-chinese" ADD_DATE="97904862771">android-training-course-in-chinese</A>
+<DT><A HREF="http://www.23code.com/" ADD_DATE="97904862771">23Code - 安卓开源代码库</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">Android-technical-articles</H3>
