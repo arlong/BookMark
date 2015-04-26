@@ -182,5 +182,6 @@
 <DT><A HREF="https://github.com/devunwired/recyclerview-playground" ADD_DATE="96440789165">recyclerview-playground</A>
 <DT><A HREF="https://github.com/saulmm/Curved-Fab-Reveal-Example" ADD_DATE="96440789165">Curved-Fab-Reveal-Example</A>
 <DT><A HREF="https://github.com/chenqian2651489/PopZoomGallery" ADD_DATE="96440789165">PopZoomGallery</A>
+<DT><A HREF="https://github.com/chiemy/CardView" ADD_DATE="96440789165">CardView</A>
 
 </DL><P>
