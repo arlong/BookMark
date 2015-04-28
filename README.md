@@ -116,6 +116,7 @@
 <DT><A HREF="https://github.com/aosp-exchange-group/share" ADD_DATE="97904862771">aosp-exchange-group/share</A>
 <DT><A HREF="https://github.com/evant/JobSchedulerCompat" ADD_DATE="97904862771">evant/JobSchedulerCompat</A>
 <DT><A HREF="https://github.com/r0adkll/Slidr" ADD_DATE="100747801277">r0adkll/Slidr</A>
+<DT><A HREF="https://github.com/ikew0ng/SwipeBackLayout" ADD_DATE="100747801277">SwipeBackLayout</A>
 <DT><A HREF="https://github.com/android-cn/android-open-project-analysis" ADD_DATE="100747801277">android-cn/android-open-project-analysis</A>
 <DT><A HREF="https://github.com/tigerguixh/QuickNews" ADD_DATE="100747801277">tigerguixh/QuickNews</A>
 <DT><A HREF="https://github.com/android-cn" ADD_DATE="96440789165">android-cn</A>
