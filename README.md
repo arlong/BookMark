@@ -186,5 +186,6 @@
 <DT><A HREF="https://github.com/chenqian2651489/PopZoomGallery" ADD_DATE="96440789165">PopZoomGallery</A>
 <DT><A HREF="https://github.com/chiemy/CardView" ADD_DATE="96440789165">CardView(上下卡片)</A>
 <DT><A HREF="https://github.com/rengwuxian/MaterialEditText" ADD_DATE="96440789165">MaterialEditText</A>
+<DT><A HREF="https://github.com/nkzawa/socket.io-android-chat" ADD_DATE="96440789165">socket.io-android-chat</A>
 
 </DL><P>
