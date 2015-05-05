@@ -188,4 +188,5 @@
 <DT><A HREF="https://github.com/rengwuxian/MaterialEditText" ADD_DATE="96440789165">MaterialEditText</A>
 <DT><A HREF="https://github.com/nkzawa/socket.io-android-chat" ADD_DATE="96440789165">socket.io-android-chat(聊天)</A>
 <DT><A HREF="https://github.com/jgilfelt/SystemBarTint" ADD_DATE="96440789165">jgilfelt/SystemBarTint</A>
+<DT><A HREF="https://github.com/paveldudka/AndroidRippleDemo" ADD_DATE="96440789165">AndroidRippleDemo</A>
 </DL><P>
