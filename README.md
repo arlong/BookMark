@@ -192,4 +192,6 @@
 <DT><A HREF="https://github.com/Tibolte/ElasticDownload" ADD_DATE="96440789165">Tibolte/ElasticDownload</A>
 <DT><A HREF="https://github.com/michaelye/EasyDialogDemo" ADD_DATE="96440789165">EasyDialogDemo</A>
 <DT><A HREF="https://github.com/wnafee/vector-compat" ADD_DATE="96440789165">vector-compat</A>
+<DT><A HREF="https://github.com/florent37/MaterialViewPager" ADD_DATE="96440789165">MaterialViewPager</A>
+<DT><A HREF="https://github.com/bmelnychuk/WearCircleMenu" ADD_DATE="96440789165">WearCircleMenu</A>
 </DL><P>
