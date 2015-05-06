@@ -190,4 +190,6 @@
 <DT><A HREF="https://github.com/jgilfelt/SystemBarTint" ADD_DATE="96440789165">jgilfelt/SystemBarTint</A>
 <DT><A HREF="https://github.com/paveldudka/AndroidRippleDemo" ADD_DATE="96440789165">AndroidRippleDemo</A>
 <DT><A HREF="https://github.com/Tibolte/ElasticDownload" ADD_DATE="96440789165">Tibolte/ElasticDownload</A>
+<DT><A HREF="https://github.com/michaelye/EasyDialogDemo" ADD_DATE="96440789165">EasyDialogDemo</A>
+<DT><A HREF="https://github.com/wnafee/vector-compat" ADD_DATE="96440789165">vector-compat</A>
 </DL><P>
