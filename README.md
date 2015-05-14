@@ -202,4 +202,6 @@
 <DT><A HREF="https://github.com/square/leakcanary" ADD_DATE="96440789165">leakcanary</A>
 <DT><A HREF="https://github.com/cundong/SmartAppUpdates" ADD_DATE="96440789165">SmartAppUpdates(增量更新)</A>
 <DT><A HREF="https://github.com/yhirano/Mp3VoiceRecorderSampleForAndroid" ADD_DATE="96440789165">Mp3VoiceRecorderSampleForAndroid(MP3录音)</A>
+<DT><A HREF="https://github.com/benniaobuguai/android-auto-scroll-viewpager" ADD_DATE="96440789165">benniaobuguai/android-auto-scroll-viewpager</A>
+<DT><A HREF="https://github.com/benniaobuguai/android-project-wo2b" ADD_DATE="96440789165">benniaobuguai/android-project-wo2b</A>
 </DL><P>
