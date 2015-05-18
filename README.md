@@ -42,6 +42,12 @@
 <DT><A HREF="https://github.com/android-cn/interview-questions" ADD_DATE="97904862771">interview-questions</A>
 </DL><P>
 
+<DT><H3 FOLDED ADD_DATE="97904862771">Open-App</H3>
+<DL><P>
+<DT><A HREF="https://github.com/JeremyHe-cn/android-app" ADD_DATE="96440789165">JeremyHe-cn/android-app(eoe)</A>
+<DT><A HREF="https://github.com/Lemueler/Cotable" ADD_DATE="96440789165">Lemueler/Cotable(博客园)</A>
+</DL><P>
+
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
 <DL><P>
 <DT><A HREF="https://github.com/googlesamples" ADD_DATE="97904862771">googlesamples</A>
@@ -153,7 +159,6 @@
 <DT><A HREF="https://github.com/Yalantis/Euclid" ADD_DATE="96440789165">Yalantis/Euclid</A>
 <DT><A HREF="https://github.com/pcqpcq/open-source-android-apps" ADD_DATE="96440789165">open-source-android-apps</A>
 <DT><A HREF="https://github.com/wordpress-mobile/WordPress-Android" ADD_DATE="96440789165">WordPress-Android</A>
-<DT><A HREF="https://github.com/JeremyHe-cn/android-app" ADD_DATE="96440789165">JeremyHe-cn/android-app(eoe)</A>
 <DT><A HREF="https://github.com/lecho/hellocharts-android" ADD_DATE="96440789165">hellocharts-android</A>
 <DT><A HREF="https://github.com/daimajia/AndroidViewHover" ADD_DATE="96440789165">AndroidViewHover</A>
 <DT><A HREF="https://github.com/facebook/fresco" ADD_DATE="96440789165">facebook/fresco</A>
