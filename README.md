@@ -46,7 +46,9 @@
 <DL><P>
 <DT><A HREF="https://github.com/eoecn/android-app" ADD_DATE="96440789165">eoecn/android-app(eoe)</A>
 <DT><A HREF="https://github.com/Lemueler/Cotable" ADD_DATE="96440789165">Lemueler/Cotable(博客园)</A>
+<DT><A HREF="http://git.oschina.net/oschina/android-app" ADD_DATE="96440789165">oschina/android-app(OSChina客户端)</A>
 <DT><A HREF="http://git.oschina.net/tonlin/android-app" ADD_DATE="96440789165">tonlin/android-app(OSCHINA第三方客户端)</A>
+<DT><A HREF="https://github.com/GeekZooStudio/ECMobile_Universal" ADD_DATE="96440789165">ECMobile_Universal(ECShop商城客户端)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
