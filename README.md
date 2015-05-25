@@ -178,6 +178,7 @@
 <DT><A HREF="https://github.com/romannurik/muzei" ADD_DATE="96440789165">romannurik/muzei</A>
 <DT><A HREF="https://github.com/Fichardu/CircleProgress" ADD_DATE="96440789165">Fichardu/CircleProgress(圆形进度条)</A>
 <DT><A HREF="https://github.com/daimajia/NumberProgressBar" ADD_DATE="96440789165">NumberProgressBar(带数字进度条)</A>
+<DT><A HREF="https://github.com/akexorcist/Android-RoundCornerProgressBar" ADD_DATE="96440789165">Android-RoundCornerProgressBar(圆角进度条)</A>
 <DT><A HREF="https://github.com/grantland/android-autofittextview" ADD_DATE="96440789165">android-autofittextview</A>
 <DT><A HREF="https://github.com/jjobes/SlideDateTimePicker" ADD_DATE="96440789165">SlideDateTimePicker</A>
 <DT><A HREF="https://github.com/florent37/WearMenu" ADD_DATE="96440789165">florent37/WearMenu</A>
