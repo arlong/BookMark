@@ -135,6 +135,7 @@
 <DT><A HREF="https://github.com/astuetz/PagerSlidingTabStrip" ADD_DATE="96440789165">PagerSlidingTabStrip</A>
 <DT><A HREF="https://github.com/kmshack/Android-ParallaxHeaderViewPager" ADD_DATE="96440789165">Android-ParallaxHeaderViewPager</A>
 <DT><A HREF="https://github.com/ongakuer/ViewPagerHeaderScrollDemo" ADD_DATE="96440789165">ViewPagerHeaderScrollDemo</A>
+<DT><A HREF="https://github.com/hongyangAndroid/Android-StickyNavLayout" ADD_DATE="96440789165">Android-StickyNavLayout</A>
 <DT><A HREF="https://github.com/habzy/GridImagePicker" ADD_DATE="96440789165">GridImagePicker</A>
 <DT><A HREF="https://github.com/nhaarman/ListViewAnimations" ADD_DATE="96440789165">ListViewAnimations</A>
 <DT><A HREF="https://github.com/wasabeef/recyclerview-animators" ADD_DATE="96440789165">recyclerview-animators</A>
