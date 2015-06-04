@@ -88,6 +88,7 @@
 <DT><A HREF="https://github.com/wuyexiong/transparent-over-animtabsview" ADD_DATE="97904862771">wuyexiong/transparent-over-animtabsview · GitHub</A>
 <DT><A HREF="https://github.com/johannilsson/android-pulltorefresh" ADD_DATE="97904862771">johannilsson/android-pulltorefresh · GitHub</A>
 <DT><A HREF="https://github.com/baoyongzhang/android-PullRefreshLayout" ADD_DATE="97904862771">baoyongzhang/android-PullRefreshLayout · GitHub</A>
+<DT><A HREF="https://github.com/bingoogolapple/BGARefreshLayout-Android" ADD_DATE="97904862771">bingoogolapple/BGARefreshLayout-Android · GitHub</A>
 <DT><A HREF="https://github.com/MasDennis/RajawaliVuforia" ADD_DATE="97904862771">MasDennis/RajawaliVuforia · GitHub</A>
 <DT><A HREF="https://github.com/lixiaoyu0123/AutopackingAndroid" ADD_DATE="97904862771">lixiaoyu0123/AutopackingAndroid · GitHub</A>
 <DT><A HREF="https://github.com/flavienlaurent/NotBoringActionBar" ADD_DATE="97904862771">flavienlaurent/NotBoringActionBar · GitHub</A>
