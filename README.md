@@ -226,4 +226,5 @@
 <DT><A HREF="https://github.com/alexzaitsev/freepager" ADD_DATE="96440789165">alexzaitsev/freepager</A>
 <DT><A HREF="https://github.com/race604/FlyRefresh" ADD_DATE="96440789165">race604/FlyRefresh</A>
 <DT><A HREF="https://github.com/google/iosched" ADD_DATE="96440789165">google/iosched</A>
+<DT><A HREF="https://github.com/felixpalmer/android-visualizer" ADD_DATE="96440789165">android-visualizer(音频示波器)</A>
 </DL><P>
