@@ -230,4 +230,5 @@
 <DT><A HREF="https://github.com/googlesamples/android-topeka" ADD_DATE="96440789165">googlesamples/android-topeka</A>
 <DT><A HREF="https://github.com/felixpalmer/android-visualizer" ADD_DATE="96440789165">android-visualizer(音频示波器)</A>
 <DT><A HREF="https://github.com/glomadrian/material-animated-switch" ADD_DATE="96440789165">material-animated-switch</A>
+<DT><A HREF="https://github.com/motianhuo/wechat" ADD_DATE="96440789165">motianhuo/wechat(高仿微信)</A>
 </DL><P>
