@@ -232,4 +232,5 @@
 <DT><A HREF="https://github.com/glomadrian/material-animated-switch" ADD_DATE="96440789165">material-animated-switch</A>
 <DT><A HREF="https://github.com/motianhuo/wechat" ADD_DATE="96440789165">motianhuo/wechat(高仿微信)</A>
 <DT><A HREF="https://github.com/nullice/NViconsLib_Silhouette" ADD_DATE="96440789165">NViconsLib_Silhouette</A>
+<DT><A HREF="https://github.com/Manabu-GT/ExpandableTextView" ADD_DATE="96440789165">ExpandableTextView(折叠TextView)</A>
 </DL><P>
