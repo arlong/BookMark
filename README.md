@@ -121,7 +121,7 @@
 <DT><A HREF="https://github.com/LitePalFramework/LitePal" ADD_DATE="97904862771">LitePalFramework/LitePal · GitHub</A>
 <DT><A HREF="https://github.com/umano/AndroidSlidingUpPanel" ADD_DATE="97904862771">umano/AndroidSlidingUpPanel · GitHub</A>
 <DT><A HREF="https://github.com/nemoTyrant/manong" ADD_DATE="97904862771">nemoTyrant/manong</A>
-<DT><A HREF="https://github.com/wasabeef/awesome-android-ui" ADD_DATE="97904862771">wasabeef/awesome-android-ui</A>
+<DT><A HREF="https://github.com/wasabeef/awesome-android-ui" ADD_DATE="97904862771">wasabeef/awesome-android-ui(UI集合)</A>
 <DT><A HREF="https://github.com/DesarrolloAntonio/FragmentTransactionExtended" ADD_DATE="97904862771">DesarrolloAntonio/FragmentTransactionExtended</A>
 <DT><A HREF="https://github.com/andkulikov/transitions-everywhere" ADD_DATE="97904862771">andkulikov/transitions-everywhere</A>
 <DT><A HREF="https://github.com/baoyongzhang/RecyclerViewDemo" ADD_DATE="97904862771">baoyongzhang/RecyclerViewDemo</A>
