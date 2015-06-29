@@ -234,4 +234,5 @@
 <DT><A HREF="https://github.com/nullice/NViconsLib_Silhouette" ADD_DATE="96440789165">NViconsLib_Silhouette</A>
 <DT><A HREF="https://github.com/Manabu-GT/ExpandableTextView" ADD_DATE="96440789165">ExpandableTextView(折叠TextView)</A>
 <DT><A HREF="https://github.com/wqandroid/wqgallery" ADD_DATE="96440789165">wqandroid/wqgallery(微信样式相册选择器)</A>
+<DT><A HREF="https://github.com/JulienGenoud/android-percent-support-lib-sample" ADD_DATE="96440789165">android-percent-support-lib-sample</A>
 </DL><P>
