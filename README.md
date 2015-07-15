@@ -173,6 +173,7 @@
 <DT><A HREF="https://github.com/QuadFlask/colorpicker" ADD_DATE="96440789165">QuadFlask/colorpicker</A>
 <DT><A HREF="https://github.com/linroid/FilterMenu" ADD_DATE="96440789165">linroid/FilterMenu</A>
 <DT><A HREF="https://github.com/hongyangAndroid/Android-CircleMenu" ADD_DATE="96440789165">Android-CircleMenu</A>
+<DT><A HREF="https://github.com/dmitry-zaitsev/CircleLayout" ADD_DATE="96440789165">CircleLayout</A>
 <DT><A HREF="https://github.com/LukeDeighton/WheelView" ADD_DATE="96440789165">LukeDeighton/WheelView</A>
 <DT><A HREF="https://github.com/qdrzwd/VideoRecorder" ADD_DATE="96440789165">VideoRecorder</A>
 <DT><A HREF="https://github.com/pmtoam/Mp3EncodeDemo" ADD_DATE="96440789165">Mp3EncodeDemo</A>
