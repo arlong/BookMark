@@ -87,7 +87,8 @@
 <DT><A HREF="https://github.com/JoanZapata/base-adapter-helper" ADD_DATE="97904862771">JoanZapata/base-adapter-helper · GitHub</A>
 <DT><A HREF="https://github.com/kymjs/KJFrameForAndroid" ADD_DATE="97904862771">kymjs/KJFrameForAndroid · GitHub</A>
 <DT><A HREF="https://github.com/card-io/card.io-Android-SDK" ADD_DATE="97904862771">card-io/card.io-Android-SDK · GitHub</A>
-<DT><A HREF="https://github.com/SpecialCyCi/AndroidResideMenu" ADD_DATE="97904862771">SpecialCyCi/AndroidResideMenu · GitHub</A>
+<DT><A HREF="https://github.com/SpecialCyCi/AndroidResideMenu" ADD_DATE="97904862771">SpecialCyCi/AndroidResideMenu (仿Dribbble的边栏菜单,类似QQ5.0侧滑)</A>
+<DT><A HREF="https://github.com/BlueMor/DragLayout" ADD_DATE="97904862771">BlueMor/DragLayout(v4包下的ViewDragHelper实现QQ5.0侧滑)</A>
 <DT><A HREF="https://github.com/baoyongzhang/SwipeMenuListView" ADD_DATE="97904862771">baoyongzhang/SwipeMenuListView · GitHub</A>
 <DT><A HREF="https://github.com/wuyexiong/transparent-over-animtabsview" ADD_DATE="97904862771">wuyexiong/transparent-over-animtabsview · GitHub</A>
 <DT><A HREF="https://github.com/johannilsson/android-pulltorefresh" ADD_DATE="97904862771">johannilsson/android-pulltorefresh · GitHub</A>
