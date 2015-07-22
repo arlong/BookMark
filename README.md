@@ -246,4 +246,5 @@
 <DT><A HREF="https://github.com/YeDaxia/WanDaoJiaIndex" ADD_DATE="96440789165">YeDaxia/WanDaoJiaIndex(仿豌豆荚首页导航)</A>
 <DT><A HREF="https://github.com/Skykai521/StickerCamera" ADD_DATE="96440789165">Skykai521/StickerCamera(集成了相机,图片裁剪,给图片贴贴图打标签的APP)</A>
 <DT><A HREF="https://github.com/john990/WaveView" ADD_DATE="96440789165">john990/WaveView(波纹效果的View，可用来做 ProgressBar)</A>
+<DT><A HREF="https://github.com/lsjwzh/MaterialLoadingProgressBar" ADD_DATE="96440789165">MaterialLoadingProgressBar(Material Design进度指示器)</A>
 </DL><P>
