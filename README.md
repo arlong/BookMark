@@ -243,6 +243,8 @@
 <DT><A HREF="https://github.com/TracyZhangLei/FileExplorer" ADD_DATE="96440789165">TracyZhangLei/FileExplorer(文件管理器)</A>
 <DT><A HREF="https://github.com/THEONE10211024/WaterDropListView" ADD_DATE="96440789165">WaterDropListView(下拉刷新“雨滴”效果的ListView)</A>
 <DT><A HREF="https://github.com/anton46/Android-StepsView" ADD_DATE="96440789165">Android-StepsView(分步进度)</A>
+<DT><A HREF="https://github.com/yahoo/android-range-seek-bar" ADD_DATE="96440789165">yahoo/android-range-seek-bar(随机值选取的SeekBar)</A>
+<DT><A HREF="https://github.com/oli107/material-range-bar" ADD_DATE="96440789165">oli107/material-range-bar(RangeBar的Material Design风格适配)</A>
 <DT><A HREF="https://github.com/YeDaxia/WanDaoJiaIndex" ADD_DATE="96440789165">YeDaxia/WanDaoJiaIndex(仿豌豆荚首页导航)</A>
 <DT><A HREF="https://github.com/Skykai521/StickerCamera" ADD_DATE="96440789165">Skykai521/StickerCamera(集成了相机,图片裁剪,给图片贴贴图打标签的APP)</A>
 <DT><A HREF="https://github.com/john990/WaveView" ADD_DATE="96440789165">john990/WaveView(波纹效果的View，可用来做 ProgressBar)</A>
