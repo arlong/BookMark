@@ -54,6 +54,15 @@
 <DT><A HREF="https://github.com/GeekZooStudio/ECMobile_Universal" ADD_DATE="96440789165">ECMobile_Universal(ECShop商城客户端)</A>
 </DL><P>
 
+<DT><H3 FOLDED ADD_DATE="97904862771">Android插件化开发</H3>
+<DL><P>
+<DT><A HREF="https://github.com/singwhatiwanna/dynamic-load-apk" ADD_DATE="97904862771">singwhatiwanna/dynamic-load-apk(Apk动态加载框架DL)</A>
+<DT><A HREF="https://github.com/mmin18/AndroidDynamicLoader" ADD_DATE="97904862771">mmin18/AndroidDynamicLoader(用 Fragment以及schema的方式实现)</A>
+<DT><A HREF="https://github.com/houkx/android-pluginmgr" ADD_DATE="97904862771">houkx/android-pluginmgr(Android PluginManager)</A>
+<DT><A HREF="https://github.com/bunnyblue/OpenAtlas" ADD_DATE="97904862771">bunnyblue/OpenAtlas(非代理Android动态部署框架)</A>
+</DL><P>
+
+
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
 <DL><P>
 <DT><A HREF="https://github.com/googlesamples" ADD_DATE="97904862771">googlesamples</A>
