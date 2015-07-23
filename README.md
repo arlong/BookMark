@@ -60,6 +60,7 @@
 <DT><A HREF="https://github.com/mmin18/AndroidDynamicLoader" ADD_DATE="97904862771">mmin18/AndroidDynamicLoader(用 Fragment以及schema的方式实现)</A>
 <DT><A HREF="https://github.com/houkx/android-pluginmgr" ADD_DATE="97904862771">houkx/android-pluginmgr(Android PluginManager)</A>
 <DT><A HREF="https://github.com/bunnyblue/OpenAtlas" ADD_DATE="97904862771">bunnyblue/OpenAtlas(非代理Android动态部署框架)</A>
+<DT><A HREF="https://github.com/limpoxe/Android-Plugin-Framework" ADD_DATE="97904862771">limpoxe/Android-Plugin-Framework(Android插件开发框架)</A>
 </DL><P>
 
 
