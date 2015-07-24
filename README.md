@@ -262,4 +262,5 @@
 <DT><A HREF="https://github.com/lsjwzh/MaterialLoadingProgressBar" ADD_DATE="96440789165">MaterialLoadingProgressBar(Material Design进度指示器)</A>
 <DT><A HREF="https://github.com/dodola/DynamicCardLayout" ADD_DATE="96440789165">dodola/DynamicCardLayout(Windows8的瓷片布局)</A>
 <DT><A HREF="https://github.com/Ereza/CustomActivityOnCrash" ADD_DATE="96440789165">Ereza/CustomActivityOnCrash(自定义Crash提示页面)</A>
+<DT><A HREF="https://github.com/dersoncheng/MultipleTheme" ADD_DATE="96440789165">dersoncheng/MultipleTheme(换肤／夜间模式的Android框架)</A>
 </DL><P>
