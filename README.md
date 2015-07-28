@@ -265,4 +265,6 @@
 <DT><A HREF="https://github.com/Ereza/CustomActivityOnCrash" ADD_DATE="96440789165">Ereza/CustomActivityOnCrash(自定义Crash提示页面)</A>
 <DT><A HREF="https://github.com/dersoncheng/MultipleTheme" ADD_DATE="96440789165">dersoncheng/MultipleTheme(换肤／夜间模式的Android框架)</A>
 <DT><A HREF="https://github.com/LuckyJayce/MVCHelper" ADD_DATE="96440789165">LuckyJayce/MVCHelper(下拉刷新，滚动底部自动加载更多)</A>
+<DT><A HREF="https://github.com/MarkMjw/TreeView" ADD_DATE="96440789165">MarkMjw/TreeView(An android ExpandListView like IOS's TreeView)</A>
+<DT><A HREF="https://github.com/debolee/demo6_PhotoRiver" ADD_DATE="96440789165">debolee/demo6_PhotoRiver(图片流动显示)</A>
 </DL><P>
