@@ -35,6 +35,13 @@
 <DT><A HREF="https://github.com/bboyfeiyu/android-tech-frontier/" ADD_DATE="97904862771">bboyfeiyu/android-tech-frontier</A>
 </DL><P>
 
+
+<DT><H3 FOLDED ADD_DATE="97904862771">开发工具Plugin</H3>
+<DL><P>
+<DT><A HREF="https://github.com/dmytrodanylyk/folding-plugin" ADD_DATE="97904862771">folding-plugin(AS文件分组显示)</A>
+</DL><P>
+
+
 <DT><H3 FOLDED ADD_DATE="97904862771">open-source-project-analysis</H3>
 <DL><P>
 <DT><A HREF="http://codekk.com/open-source-project-analysis" ADD_DATE="97904862771">open-source-project-analysis</A>
