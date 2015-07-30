@@ -81,7 +81,8 @@
 <DT><A HREF="https://github.com/yangfuhai/afinal" ADD_DATE="97904862771">yangfuhai/afinal · GitHub</A>
 <DT><A HREF="https://github.com/Flowdalic/asmack" ADD_DATE="97904862771">Flowdalic/asmack · GitHub</A>
 <DT><A HREF="https://github.com/frapontillo/ImageViewEx" ADD_DATE="97904862771">frapontillo/ImageViewEx · GitHub</A>
-<DT><A HREF="https://github.com/nostra13/Android-Universal-Image-Loader" ADD_DATE="97904862771">nostra13/Android-Universal-Image-Loader · GitHub</A>
+<DT><A HREF="https://github.com/nostra13/Android-Universal-Image-Loader" ADD_DATE="97904862771">nostra13/Android-Universal-Image-Loader(图片加载)</A>
+<DT><A HREF="https://github.com/bumptech/glide" ADD_DATE="97904862771">bumptech/glide(图片加载)</A>
 <DT><A HREF="https://github.com/GinRyan/OneXListview" ADD_DATE="97904862771">GinRyan/OneXListview · GitHub</A>
 <DT><A HREF="https://github.com/wyouflf/xUtils" ADD_DATE="97904862771">wyouflf/xUtils · GitHub</A>
 <DT><A HREF="https://github.com/GeekZooStudio" ADD_DATE="97904862771">GeekZooStudio (GeekZooStudio) · GitHub</A>
