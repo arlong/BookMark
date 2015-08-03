@@ -278,4 +278,5 @@
 <DT><A HREF="https://github.com/gcacace/android-signaturepad" ADD_DATE="96440789165">gcacace/android-signaturepad(签名板)</A>
 <DT><A HREF="https://github.com/rizhilee/Beautyacticle" ADD_DATE="96440789165">rizhilee/Beautyacticle(好用的文字APP)</A>
 <DT><A HREF="https://github.com/frogermcs/InstaMaterial" ADD_DATE="96440789165">frogermcs/InstaMaterial(概念设计(第六部分) – 用户介绍)</A>
+<DT><A HREF="https://github.com/igortrncic/dotted-progress-bar" ADD_DATE="96440789165">igortrncic/dotted-progress-bar(圆点进度条)</A>
 </DL><P>
