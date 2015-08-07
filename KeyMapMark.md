@@ -3,7 +3,7 @@
 Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ---|---|---|---
 ⌘1|⌥Enter|Show Intention Actions|错误修正
-⌥/(Win下Alt+/)|⌃Space|Code->Completion->Basic|提示
+⌥/(Win下Alt+/)|⌃Space|Code->Completion->Basic|代码提示列表
 ⌥←|⌘[|Back|返回
 ⌥→|⌘]|Forward|前进
 ⌥⌘↑|⌘D|Duplicate Line or Block|复制当前行到上一行
