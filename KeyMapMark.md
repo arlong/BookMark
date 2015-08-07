@@ -4,7 +4,8 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ---|---|---|---
 ⌘1|⌥↩|Show Intention Actions|错误修正
 ⌥/(Win下Alt+/)|⌃Space|Code->Completion->Basic|代码提示列表
-⌃Button1 Click 或 F3(Crtl+鼠标左按 或 F3)|⌃Button1 Click 或 F3|Navigate->Declaration|跳到变量或方法等声明地方
+⌃Button1 Click 或 F3  
+(Crtl+鼠标左按 或 F3)|⌃Button1 Click 或 F3|Navigate->Declaration|跳到变量或方法等声明地方
 ⌥←|⌘[|Back|返回
 ⌥→|⌘]|Forward|前进
 ⌥⌘↑|⌘D|Duplicate Line or Block|复制当前行到上一行
