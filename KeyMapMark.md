@@ -10,7 +10,13 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⌥→|⌘]|Forward|前进
 ⌥⌘↑|⌘D|Duplicate Line or Block|复制当前行到上一行
 ⌥⌘↓|无|Duplicate Line|复制当前行到下一行
-⌥⇧R|⇧F6|Refactor->Rename|重命名并且更新引用
+⌥⇧R|⇧F6|Refactor->Rename...|重命名并且更新引用
 ⌘2,L|⌥⌘V|Extract->Varable...|快速产生对象变量
 ⇧⌘↩|⇧⌘↩|Complete Current Statement|快速跳出括号
 ⌘⇧i|⌥⌘F8|Run->Quick Evaluate Expression|Debug时快速查看变量值
+
+
+
+##说明：
+1、Android Studio指Mac下的1.3版，默认快捷键是Mac OS X 10.5+
+2、Eclipse快捷键指Mac下的Eclipse(Mac OS X)
