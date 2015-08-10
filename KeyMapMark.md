@@ -6,6 +6,7 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⌥/(Win下Alt+/)|⌃Space|Code->Completion->Basic|代码提示列表
 ⌃Button1 Click 或 F3 (Crtl+鼠标左按 或 F3)|⌃Button1 Click 或 F3|Navigate->Declaration|跳到变量或方法等声明地方
 无(Win下Ctrl+F)|⌘F|Find...|本类中查找
+无(Win下Ctrl+R)|⌘R|Replace...|本类中查找替换
 ⌥←|⌘[|Back|返回
 ⌥→|⌘]|Forward|前进
 ⌥⌘↑|⌘D|Duplicate Line or Block|复制当前行到上一行
