@@ -90,6 +90,7 @@
 <DT><A HREF="https://github.com/chrisbanes/Android-PullToRefresh" ADD_DATE="97904862771">chrisbanes/Android-PullToRefresh · GitHub</A>
 <DT><A HREF="https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh" ADD_DATE="97904862771">android-Ultra-Pull-To-Refresh · GitHub</A>
 <DT><A HREF="https://github.com/huxq17/XRefreshView" ADD_DATE="97904862771">XRefreshView · GitHub</A>
+<DT><A HREF="https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout" ADD_DATE="96440789165">recruit-lifestyle/WaveSwipeRefreshLayout(下拉刷新，动画不错)</A>
 <DT><A HREF="https://github.com/bulletnoid/StaggeredGridView" ADD_DATE="97904862771">bulletnoid/StaggeredGridView · GitHub</A>
 <DT><A HREF="https://github.com/TonicArtos/StickyGridHeaders" ADD_DATE="97904862771">TonicArtos/StickyGridHeaders · GitHub</A>
 <DT><A HREF="https://github.com/square/picasso" ADD_DATE="97904862771">square/picasso · GitHub</A>
