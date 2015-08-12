@@ -7,6 +7,8 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⌃Button1 Click 或 F3 (Crtl+鼠标左按 或 F3)|⌃Button1 Click 或 F3|Navigate->Declaration|跳到变量或方法等声明地方
 无(Win下Ctrl+F)|⌘F|Find...|本类中查找
 无(Win下Ctrl+R)|⌘R|Replace...|本类中查找替换
+⌘/|⌘/|Comment with Line|//单行注释
+⌃⇧/|⌥⌘/;⌃⇧/;⇧⌘/|Comment with Line|/ *  */   多行注释
 ⌥←|⌘[|Back|返回
 ⌥→|⌘]|Forward|前进
 ⌥⌘↑|⌘D|Duplicate Line or Block|复制当前行到上一行
