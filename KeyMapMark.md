@@ -17,6 +17,11 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⌘2,L|⌥⌘V|Extract->Varable...|快速产生对象变量
 ⇧⌘↩|⇧⌘↩|Complete Current Statement|快速跳出括号
 ⌘⇧i|⌥⌘F8|Run->Quick Evaluate Expression|Debug时快速查看变量值
+⌥⌘+;⌥⌘=|⌥⌘+;⌥⌘=|Expand Recursively|展开代码
+⌥⌘-;⌥⌘_|⌥⌘-;⌥⌘_|Collapse Recursively|折叠代码
+⌘⌨*|⇧⌘+;⇧⌘=|Expand All|展开全部代码
+⇧⌘/|⇧⌘-;⇧⌘_|Collapse All|折叠全部代码
+
 
     
     
