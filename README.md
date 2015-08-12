@@ -284,4 +284,5 @@
 <DT><A HREF="https://github.com/Q42/AndroidScrollingImageView" ADD_DATE="96440789165">Q42/AndroidScrollingImageView(自动滚动的ImageView)</A>
 <DT><A HREF="https://github.com/frakbot/JumpingBeans" ADD_DATE="96440789165">frakbot/JumpingBeans(会跳动的文字)</A>
 <DT><A HREF="https://github.com/dlew/android-gridlayout" ADD_DATE="96440789165">dlew/android-gridlayout(九宫格卡片)</A>
+<DT><A HREF="https://github.com/idunnololz/AnimatedExpandableListView" ADD_DATE="96440789165">idunnololz/AnimatedExpandableListView(带动画的ExpandableListView)</A>
 </DL><P>
