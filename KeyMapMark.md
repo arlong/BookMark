@@ -30,3 +30,15 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 #####说明：
 1. Android Studio指Mac下的1.3版，默认快捷键是Mac OS X 10.5+
 2. Eclipse快捷键指Mac下的Eclipse(Mac OS X)的快捷键
+
+
+
+#####Mac键盘符号说明：
+1. ⌘——Command ()
+2. ⌃——Control
+3. ⌥——Option (alt)
+4. ⇧——Shift
+5. ⇪——Caps Lock
+6. ↩——Return (enter)
+7. fn——功能键就是fn
+8. ⌨——未知 (烦请会的大神赐教)
