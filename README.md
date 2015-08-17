@@ -33,6 +33,7 @@
 <DT><H3 FOLDED ADD_DATE="97904862771">开发工具Plugin</H3>
 <DL><P>
 <DT><A HREF="https://github.com/dmytrodanylyk/folding-plugin" ADD_DATE="97904862771">folding-plugin(AS文件分组显示)</A>
+<DT><A HREF="https://github.com/FelisCatus/SwitchyOmega" ADD_DATE="97904862771">FelisCatus/SwitchyOmega(Chrome代理插件)</A>
 </DL><P>
 
 
