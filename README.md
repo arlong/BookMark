@@ -287,4 +287,6 @@
 <DT><A HREF="https://github.com/frakbot/JumpingBeans" ADD_DATE="96440789165">frakbot/JumpingBeans(会跳动的文字)</A>
 <DT><A HREF="https://github.com/dlew/android-gridlayout" ADD_DATE="96440789165">dlew/android-gridlayout(九宫格卡片)</A>
 <DT><A HREF="https://github.com/idunnololz/AnimatedExpandableListView" ADD_DATE="96440789165">idunnololz/AnimatedExpandableListView(带动画的ExpandableListView)</A>
+<DT><A HREF="https://github.com/fenjuly/ArrowDownloadButton" ADD_DATE="96440789165">fenjuly/ArrowDownloadButton(不错的下载进度按钮)</A>
+<DT><A HREF="https://github.com/panwrona/DownloadProgressBar" ADD_DATE="96440789165">panwrona/DownloadProgressBar(不错的下载进度条)</A>
 </DL><P>
