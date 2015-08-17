@@ -289,4 +289,7 @@
 <DT><A HREF="https://github.com/idunnololz/AnimatedExpandableListView" ADD_DATE="96440789165">idunnololz/AnimatedExpandableListView(带动画的ExpandableListView)</A>
 <DT><A HREF="https://github.com/fenjuly/ArrowDownloadButton" ADD_DATE="96440789165">fenjuly/ArrowDownloadButton(不错的下载进度按钮)</A>
 <DT><A HREF="https://github.com/panwrona/DownloadProgressBar" ADD_DATE="96440789165">panwrona/DownloadProgressBar(不错的下载进度条)</A>
+<DT><A HREF="https://github.com/fenjuly/SpinnerLoader" ADD_DATE="96440789165">fenjuly/SpinnerLoader(不错的progressBar)</A>
+<DT><A HREF="https://github.com/fenjuly/CombinationImageView" ADD_DATE="96440789165">fenjuly/CombinationImageView(仿微信多人聊天的头像显示)</A>
 </DL><P>
+fenjuly/CombinationImageViewfenjuly/CombinationImageView
