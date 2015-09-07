@@ -306,4 +306,5 @@
 <DT><A HREF="https://github.com/anshulagarwal2k/GooeyMenu" ADD_DATE="96440789165">anshulagarwal2k/GooeyMenu(Fab Button with Gooey effect)</A>
 <DT><A HREF="https://github.com/zzz40500/AndroidSweetSheet" ADD_DATE="96440789165">zzz40500/AndroidSweetSheet(富有动感的 Sheet(选择器))</A>
 <DT><A HREF="https://github.com/nicewarm/ViewPagerStickyTransformer" ADD_DATE="96440789165">nicewarm/ViewPagerStickyTransformer(Viewpager的切换时，粘滞视差的效果)</A>
+<DT><A HREF="https://github.com/rey5137/material" ADD_DATE="96440789165">rey5137/material(MaterialLibrary)</A>
 </DL><P>
