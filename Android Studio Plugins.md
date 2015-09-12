@@ -16,7 +16,7 @@ AceJump 快速跳转到屏幕某个位置（Ctrl+;）<br>
 FindBugs-IDEA、CheckStyle-IDEA 用自动化代替双眼<br>
 JavaDoc 添加注释，可自定义模板<br>
 Eclipse Code Formmater 项目之前未全部转向Studio，该插件兼容Eclipse的代码格式化风格vv<br>
-http://GrepCode.com Code Search 找源码必备~GrepCode IntelliJ Plugin<br>
+Code Search [官网](http://GrepCode.com) 找源码必备~GrepCode IntelliJ Plugin<br>
 RestClient 模拟HTTP请求测试与服务端的通讯请求，功能强大~<br>
 Statistic  统计行数的插件<br>
 
