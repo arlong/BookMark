@@ -1,7 +1,7 @@
 ### Android Studio 常用插件
 
 ##### 1、Android相关
-ADB Idea ADB操作快捷菜单，快速清除数据，重启应用，卸载应用等操作
+ADB Idea ADB操作快捷菜单，快速清除数据，重启应用，卸载应用等操作<br>
 Android Annotations 配合Annotation框架快速生成控件绑定代码，同Android ButterKnife Zeleny ，本来都是用ButterKnife，生成快速绑定代码，后面开发的都是Lib库没办法使用ButterKnife只好转Annotations库
 Android Drawable Importer 做些小应用时妈妈再也不用担心我找不到图标了~需要配合google/material-design-icons · GitHub、Android Icons使用，安装后在设置菜单多出来的选项中设置
 Android Parcelable Code Generator 如标题。快速生成Parcelable代码
