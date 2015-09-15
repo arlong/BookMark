@@ -310,4 +310,6 @@
 <DT><A HREF="https://github.com/rey5137/material" ADD_DATE="96440789165">rey5137/material(MaterialLibrary)</A>
 <DT><A HREF="https://github.com/ZieIony/Carbon" ADD_DATE="96440789165">ZieIony/Carbon(MaterialLibrary兼容到Android2.2)</A>
 <DT><A HREF="https://github.com/lfkdsk/JustWeTools" ADD_DATE="96440789165">lfkdsk/JustWeTools(自定义库，包括：PaintView、CodeView、ExplorerView、ReadBookView)</A>
+<DT><A HREF="https://github.com/glomadrian/velocimeter-view" ADD_DATE="96440789165">glomadrian/velocimeter-view(测速仪效果)</A>
+<DT><A HREF="https://github.com/alibaba/AndFix" ADD_DATE="96440789165">alibaba/AndFix(hot-fix,相当于打补丁)</A>
 </DL><P>
