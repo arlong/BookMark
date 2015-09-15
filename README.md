@@ -314,4 +314,5 @@
 <DT><A HREF="https://github.com/glomadrian/velocimeter-view" ADD_DATE="96440789165">glomadrian/velocimeter-view(测速仪效果)</A>
 <DT><A HREF="https://github.com/alibaba/AndFix" ADD_DATE="96440789165">alibaba/AndFix(hot-fix,相当于打补丁)</A>
 <DT><A HREF="https://github.com/xmuSistone/android-image-slide-panel" ADD_DATE="96440789165">xmuSistone/android-image-slide-panel(图片照片墙的加载和滑动特效)</A>
+<DT><A HREF="https://github.com/DavidPizarro/PinView" ADD_DATE="96440789165">DavidPizarro/PinView(密码框)</A>
 </DL><P>
