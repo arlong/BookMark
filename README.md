@@ -318,4 +318,5 @@
 <DT><A HREF="https://github.com/xmuSistone/android-image-slide-panel" ADD_DATE="96440789165">xmuSistone/android-image-slide-panel(图片照片墙的加载和滑动特效)</A>
 <DT><A HREF="https://github.com/DavidPizarro/PinView" ADD_DATE="96440789165">DavidPizarro/PinView(密码框)</A>
 <DT><A HREF="https://github.com/ZhaoKaiQiang/ParticleLayout/" ADD_DATE="96440789165">ZhaoKaiQiang/ParticleLayout(左滑粒子效果)</A>
+<DT><A HREF="https://github.com/THEONE10211024/CircleIndicator" ADD_DATE="96440789165">THEONE10211024/CircleIndicator(轻量级的ViewPager指示器)</A>
 </DL><P>
