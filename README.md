@@ -320,4 +320,5 @@
 <DT><A HREF="https://github.com/ZhaoKaiQiang/ParticleLayout/" ADD_DATE="96440789165">ZhaoKaiQiang/ParticleLayout(左滑粒子效果)</A>
 <DT><A HREF="https://github.com/THEONE10211024/CircleIndicator" ADD_DATE="96440789165">THEONE10211024/CircleIndicator(轻量级的ViewPager指示器)</A>
 <DT><A HREF="https://github.com/kingideayou/TagCloudView" ADD_DATE="96440789165">kingideayou/TagCloudView(标签云效果)</A>
+<DT><A HREF="https://github.com/rahulrj/YahooNewsOnboarding" ADD_DATE="96440789165">rahulrj/YahooNewsOnboarding(ViewPager实现欢迎页面动画效果)</A>
 </DL><P>
