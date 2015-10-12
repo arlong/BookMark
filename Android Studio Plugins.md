@@ -18,7 +18,7 @@
 * Eclipse Code Formmater 项目之前未全部转向Studio，该插件兼容Eclipse的代码格式化风格vv<br>
 * Code Search [官网](http://GrepCode.com) 找源码必备~GrepCode IntelliJ Plugin<br>
 * RestClient 模拟HTTP请求测试与服务端的通讯请求，功能强大~<br>
-* Statistic  统计行数的插件<br>
+* Statistic [地址](http://plugins.jetbrains.com/plugin/?idea&id=4509)  统计行数的插件<br>
 
 
 莫装太多，小心卡顿，根据需求禁用部分插件。
