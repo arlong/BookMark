@@ -323,4 +323,5 @@
 <DT><A HREF="https://github.com/kingideayou/TagCloudView" ADD_DATE="96440789165">kingideayou/TagCloudView(标签云效果)</A>
 <DT><A HREF="https://github.com/rahulrj/YahooNewsOnboarding" ADD_DATE="96440789165">rahulrj/YahooNewsOnboarding(ViewPager实现欢迎页面动画效果)</A>
 <DT><A HREF="https://github.com/iceAnson/ChartView" ADD_DATE="96440789165">iceAnson/ChartView(自定义图表控件)</A>
+<DT><A HREF="https://github.com/north2014/A-MusicView" ADD_DATE="96440789165">north2014/A-MusicView(Canvas实时绘制音乐波形图)</A>
 </DL><P>
