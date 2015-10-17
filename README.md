@@ -326,4 +326,5 @@
 <DT><A HREF="https://github.com/iceAnson/ChartView" ADD_DATE="96440789165">iceAnson/ChartView(自定义图表控件)</A>
 <DT><A HREF="https://github.com/north2014/A-MusicView" ADD_DATE="96440789165">north2014/A-MusicView(Canvas实时绘制音乐波形图)</A>
 <DT><A HREF="https://github.com/MiguelCatalan/MaterialSearchView" ADD_DATE="96440789165">MiguelCatalan/MaterialSearchView(Material Design风格SearchView实现语音搜索功能)</A>
+<DT><A HREF="https://github.com/Bossyao168/RotateMenu" ADD_DATE="96440789165">Bossyao168/RotateMenu(简单地旋转菜单控件,要5.0+)</A>
 </DL><P>
