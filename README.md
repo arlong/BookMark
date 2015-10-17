@@ -66,6 +66,7 @@
 <DT><A HREF="https://github.com/andforce/iBeebo" ADD_DATE="96440789165">andforce/iBeebo(iBeebo客户端，新浪微博)</A>
 <DT><A HREF="https://github.com/drakeet/Meizhi" ADD_DATE="96440789165">drakeet/Meizhi(Meizhi客户端，支持视频播放)</A>
 <DT><A HREF="https://github.com/KJFrame/KJMusic" ADD_DATE="96440789165">KJFrame/KJMusic(KJ音乐 Android 客户端)</A>
+<DT><A HREF="https://github.com/tuesda/Watch" ADD_DATE="96440789165">tuesda/Watch(Watch国外一款强大的开源项目)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">Android插件化开发</H3>
