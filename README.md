@@ -332,4 +332,5 @@
 <DT><A HREF="https://github.com/Bossyao168/StackOverView" ADD_DATE="96440789165">Bossyao168/StackOverView(Android 5.0 任务管理器控件,自定义Overview 控件)</A>
 <DT><A HREF="https://github.com/timehop/sticky-headers-recyclerview" ADD_DATE="96440789165">timehop/sticky-headers-recyclerview(recycleview实现group顶部固定)</A>
 <DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
+<DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
 </DL><P>
