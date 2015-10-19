@@ -331,4 +331,5 @@
 <DT><A HREF="https://github.com/Bossyao168/RotateMenu" ADD_DATE="96440789165">Bossyao168/RotateMenu(简单地旋转菜单控件,要5.0+)</A>
 <DT><A HREF="https://github.com/Bossyao168/StackOverView" ADD_DATE="96440789165">Bossyao168/StackOverView(Android 5.0 任务管理器控件,自定义Overview 控件)</A>
 <DT><A HREF="https://github.com/timehop/sticky-headers-recyclerview" ADD_DATE="96440789165">timehop/sticky-headers-recyclerview(recycleview实现group顶部固定)</A>
+<DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
 </DL><P>
