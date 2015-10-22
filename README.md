@@ -152,7 +152,8 @@
 <DT><A HREF="https://github.com/felipecsl/QuickReturn" ADD_DATE="97904862771">felipecsl/QuickReturn · GitHub</A>
 <DT><A HREF="https://github.com/stormzhang/SwipeRefreshLayoutDemo" ADD_DATE="97904862771">stormzhang/SwipeRefreshLayoutDemo · GitHub</A>
 <DT><A HREF="https://github.com/wangjiegulu/DraggableFlagView" ADD_DATE="97904862771">wangjiegulu/DraggableFlagView · GitHub</A>
-<DT><A HREF="https://github.com/Diolor/Swipecards" ADD_DATE="97904862771">Diolor/Swipecards · GitHub</A>
+<DT><A HREF="https://github.com/Diolor/Swipecards" ADD_DATE="97904862771">Diolor/Swipecards · GitHub(滑动卡片)</A>
+<DT><A HREF="https://github.com/mxn21/SlidingCard" ADD_DATE="97904862771">mxn21/SlidingCard · GitHub(滑动卡片)</A>
 <DT><A HREF="https://github.com/LitePalFramework/LitePal" ADD_DATE="97904862771">LitePalFramework/LitePal · GitHub</A>
 <DT><A HREF="https://github.com/umano/AndroidSlidingUpPanel" ADD_DATE="97904862771">umano/AndroidSlidingUpPanel · GitHub</A>
 <DT><A HREF="https://github.com/nemoTyrant/manong" ADD_DATE="97904862771">nemoTyrant/manong</A>
@@ -333,4 +334,5 @@
 <DT><A HREF="https://github.com/timehop/sticky-headers-recyclerview" ADD_DATE="96440789165">timehop/sticky-headers-recyclerview(recycleview实现group顶部固定)</A>
 <DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
 <DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
+<DT><A HREF="https://github.com/mxn21/FlowingDrawer" ADD_DATE="96440789165">mxn21/FlowingDrawer(swipe right to display drawer with flowing effects,果冻效果)</A>
 </DL><P>
