@@ -335,4 +335,5 @@
 <DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
 <DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
 <DT><A HREF="https://github.com/mxn21/FlowingDrawer" ADD_DATE="96440789165">mxn21/FlowingDrawer(swipe right to display drawer with flowing effects,果冻效果)</A>
+<DT><A HREF="https://github.com/LuckyJayce/LargeImage" ADD_DATE="96440789165">LuckyJayce/LargeImage(加载大图)</A>
 </DL><P>
