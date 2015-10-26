@@ -22,6 +22,7 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⌥⌘-;⌥⌘_|⌥⌘-;⌥⌘_|Collapse Recursively|折叠代码
 ⌘⌨*|⇧⌘+;⇧⌘=|Expand All|展开全部代码
 ⇧⌘/|⇧⌘-;⇧⌘_|Collapse All|折叠全部代码
+F4|⌃H|Type Hierarchy|查看类的继承关系
 
 
     
