@@ -95,6 +95,7 @@
 <DT><A HREF="https://github.com/bumptech/glide" ADD_DATE="97904862771">bumptech/glide(图片加载)</A>
 <DT><A HREF="https://github.com/GinRyan/OneXListview" ADD_DATE="97904862771">GinRyan/OneXListview · GitHub</A>
 <DT><A HREF="https://github.com/wyouflf/xUtils" ADD_DATE="97904862771">wyouflf/xUtils · GitHub</A>
+<DT><A HREF="https://github.com/wyouflf/xUtils3" ADD_DATE="97904862771">wyouflf/xUtils3 · GitHub</A>
 <DT><A HREF="https://github.com/GeekZooStudio" ADD_DATE="97904862771">GeekZooStudio (GeekZooStudio) · GitHub</A>
 <DT><A HREF="https://github.com/Trinea/AndroidDemo" ADD_DATE="97904862771">Trinea/AndroidDemo · GitHub</A>
 <DT><A HREF="https://github.com/chrisbanes/Android-PullToRefresh" ADD_DATE="97904862771">chrisbanes/Android-PullToRefresh · GitHub</A>
