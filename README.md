@@ -339,4 +339,5 @@
 <DT><A HREF="https://github.com/mxn21/FlowingDrawer" ADD_DATE="96440789165">mxn21/FlowingDrawer(swipe right to display drawer with flowing effects,果冻效果)</A>
 <DT><A HREF="https://github.com/LuckyJayce/LargeImage" ADD_DATE="96440789165">LuckyJayce/LargeImage(加载大图)</A>
 <DT><A HREF="https://github.com/PoplarTang/FancyListIndexer" ADD_DATE="96440789165">PoplarTang/FancyListIndexer(跟随手指变化的字母索引Listview)</A>
+<DT><A HREF="https://github.com/Flipboard/bottomsheet" ADD_DATE="96440789165">Flipboard/bottomsheet(从下往上划出的View)</A>
 </DL><P>
