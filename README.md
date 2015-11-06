@@ -93,9 +93,14 @@
 <DT><A HREF="https://github.com/Trinea/AndroidDemo" ADD_DATE="97904862771">Trinea/AndroidDemo · GitHub</A>
 <DT><A HREF="https://github.com/chrisbanes/Android-PullToRefresh" ADD_DATE="97904862771">chrisbanes/Android-PullToRefresh · GitHub</A>
 <DT><A HREF="https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh" ADD_DATE="97904862771">android-Ultra-Pull-To-Refresh · GitHub</A>
+<DT><A HREF="https://github.com/johannilsson/android-pulltorefresh" ADD_DATE="97904862771">johannilsson/android-pulltorefresh · GitHub</A>
+<DT><A HREF="https://github.com/baoyongzhang/android-PullRefreshLayout" ADD_DATE="97904862771">baoyongzhang/android-PullRefreshLayout · GitHub</A>
+<DT><A HREF="https://github.com/bingoogolapple/BGARefreshLayout-Android" ADD_DATE="97904862771">bingoogolapple/BGARefreshLayout-Android · GitHub</A>
 <DT><A HREF="https://github.com/huxq17/XRefreshView" ADD_DATE="97904862771">XRefreshView · GitHub</A>
 <DT><A HREF="https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout" ADD_DATE="96440789165">recruit-lifestyle/WaveSwipeRefreshLayout(下拉刷新，动画不错)</A>
 <DT><A HREF="https://github.com/android-cjj/BeautifulRefreshLayout" ADD_DATE="96440789165">BeautifulRefreshLayout(漂亮的下来刷新控件)</A>
+<DT><A HREF="https://github.com/THEONE10211024/WaterDropListView" ADD_DATE="96440789165">WaterDropListView(下拉刷新“雨滴”效果的ListView)</A>
+<DT><A HREF="https://github.com/LuckyJayce/MVCHelper" ADD_DATE="96440789165">LuckyJayce/MVCHelper(下拉刷新，滚动底部自动加载更多)</A>
 <DT><A HREF="https://github.com/nugongshou110/AutoHomeRefreshListView" ADD_DATE="96440789165">AutoHomeRefreshListView(仿汽车之家下拉刷新)</A>
 <DT><A HREF="https://github.com/nugongshou110/MeiTuanRefreshListView" ADD_DATE="96440789165">MeiTuanRefreshListView(仿美团下拉刷新)</A>
 <DT><A HREF="https://github.com/bulletnoid/StaggeredGridView" ADD_DATE="97904862771">bulletnoid/StaggeredGridView · GitHub</A>
@@ -120,9 +125,6 @@
 <DT><A HREF="https://github.com/BlueMor/DragLayout" ADD_DATE="97904862771">BlueMor/DragLayout(v4包下的ViewDragHelper实现QQ5.0侧滑)</A>
 <DT><A HREF="https://github.com/baoyongzhang/SwipeMenuListView" ADD_DATE="97904862771">baoyongzhang/SwipeMenuListView · GitHub</A>
 <DT><A HREF="https://github.com/wuyexiong/transparent-over-animtabsview" ADD_DATE="97904862771">wuyexiong/transparent-over-animtabsview · GitHub</A>
-<DT><A HREF="https://github.com/johannilsson/android-pulltorefresh" ADD_DATE="97904862771">johannilsson/android-pulltorefresh · GitHub</A>
-<DT><A HREF="https://github.com/baoyongzhang/android-PullRefreshLayout" ADD_DATE="97904862771">baoyongzhang/android-PullRefreshLayout · GitHub</A>
-<DT><A HREF="https://github.com/bingoogolapple/BGARefreshLayout-Android" ADD_DATE="97904862771">bingoogolapple/BGARefreshLayout-Android · GitHub</A>
 <DT><A HREF="https://github.com/MasDennis/RajawaliVuforia" ADD_DATE="97904862771">MasDennis/RajawaliVuforia · GitHub</A>
 <DT><A HREF="https://github.com/lixiaoyu0123/AutopackingAndroid" ADD_DATE="97904862771">lixiaoyu0123/AutopackingAndroid · GitHub</A>
 <DT><A HREF="https://github.com/flavienlaurent/NotBoringActionBar" ADD_DATE="97904862771">flavienlaurent/NotBoringActionBar · GitHub</A>
@@ -197,7 +199,7 @@
 <DT><A HREF="https://github.com/JoanZapata/android-pdfview" ADD_DATE="96440789165">android-pdfview</A>
 <DT><A HREF="https://github.com/saulmm/Android-Material-Examples" ADD_DATE="96440789165">Android-Material-Example</A>
 <DT><A HREF="https://github.com/NashLegend/SourceWall" ADD_DATE="96440789165">SourceWall</A>
-<DT><A HREF="https://github.com/2dxgujun/AndroidTagGroup" ADD_DATE="96440789165">AndroidTagGroup</A>
+<DT><A HREF="https://github.com/2dxgujun/AndroidTagGroup" ADD_DATE="96440789165">AndroidTagGroup(云标签效果)</A>
 <DT><A HREF="https://github.com/ToDou/MultiTagView" ADD_DATE="96440789165">MultiTagView</A>
 <DT><A HREF="https://github.com/Yalantis/Euclid" ADD_DATE="96440789165">Yalantis/Euclid</A>
 <DT><A HREF="https://github.com/pcqpcq/open-source-android-apps" ADD_DATE="96440789165">open-source-android-apps</A>
@@ -276,7 +278,6 @@
 <DT><A HREF="https://github.com/devsoulwolf/Android-RatioLayout" ADD_DATE="96440789165">devsoulwolf/Android-RatioLayout(宽高按比例显示控件)</A>
 <DT><A HREF="https://github.com/MiCode/FileExplorer" ADD_DATE="96440789165">MiCode/FileExplorer(MIUI文件管理器)</A>
 <DT><A HREF="https://github.com/TracyZhangLei/FileExplorer" ADD_DATE="96440789165">TracyZhangLei/FileExplorer(文件管理器)</A>
-<DT><A HREF="https://github.com/THEONE10211024/WaterDropListView" ADD_DATE="96440789165">WaterDropListView(下拉刷新“雨滴”效果的ListView)</A>
 <DT><A HREF="https://github.com/anton46/Android-StepsView" ADD_DATE="96440789165">Android-StepsView(分步进度)</A>
 <DT><A HREF="https://github.com/yahoo/android-range-seek-bar" ADD_DATE="96440789165">yahoo/android-range-seek-bar(随机值选取的SeekBar)</A>
 <DT><A HREF="https://github.com/oli107/material-range-bar" ADD_DATE="96440789165">oli107/material-range-bar(RangeBar的Material Design风格适配)</A>
@@ -287,7 +288,6 @@
 <DT><A HREF="https://github.com/dodola/DynamicCardLayout" ADD_DATE="96440789165">dodola/DynamicCardLayout(Windows8的瓷片布局)</A>
 <DT><A HREF="https://github.com/Ereza/CustomActivityOnCrash" ADD_DATE="96440789165">Ereza/CustomActivityOnCrash(自定义Crash提示页面)</A>
 <DT><A HREF="https://github.com/dersoncheng/MultipleTheme" ADD_DATE="96440789165">dersoncheng/MultipleTheme(换肤／夜间模式的Android框架)</A>
-<DT><A HREF="https://github.com/LuckyJayce/MVCHelper" ADD_DATE="96440789165">LuckyJayce/MVCHelper(下拉刷新，滚动底部自动加载更多)</A>
 <DT><A HREF="https://github.com/MarkMjw/TreeView" ADD_DATE="96440789165">MarkMjw/TreeView(An android ExpandListView like IOS's TreeView)</A>
 <DT><A HREF="https://github.com/gcacace/android-signaturepad" ADD_DATE="96440789165">gcacace/android-signaturepad(签名板)</A>
 <DT><A HREF="https://github.com/rizhilee/Beautyacticle" ADD_DATE="96440789165">rizhilee/Beautyacticle(好用的文字APP)</A>
