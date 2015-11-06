@@ -340,4 +340,5 @@
 <DT><A HREF="https://github.com/LuckyJayce/LargeImage" ADD_DATE="96440789165">LuckyJayce/LargeImage(加载大图)</A>
 <DT><A HREF="https://github.com/PoplarTang/FancyListIndexer" ADD_DATE="96440789165">PoplarTang/FancyListIndexer(跟随手指变化的字母索引Listview)</A>
 <DT><A HREF="https://github.com/Flipboard/bottomsheet" ADD_DATE="96440789165">Flipboard/bottomsheet(从下往上弹出的View)</A>
+<DT><A HREF="https://github.com/xmuSistone/android-vertical-slide-view" ADD_DATE="96440789165">xmuSistone/android-vertical-slide-view(仿淘宝商城详情页实现)</A>
 </DL><P>
