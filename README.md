@@ -96,6 +96,8 @@
 <DT><A HREF="https://github.com/huxq17/XRefreshView" ADD_DATE="97904862771">XRefreshView · GitHub</A>
 <DT><A HREF="https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout" ADD_DATE="96440789165">recruit-lifestyle/WaveSwipeRefreshLayout(下拉刷新，动画不错)</A>
 <DT><A HREF="https://github.com/android-cjj/BeautifulRefreshLayout" ADD_DATE="96440789165">BeautifulRefreshLayout(漂亮的下来刷新控件)</A>
+<DT><A HREF="https://github.com/nugongshou110/AutoHomeRefreshListView" ADD_DATE="96440789165">AutoHomeRefreshListView(仿汽车之家下拉刷新)</A>
+<DT><A HREF="https://github.com/nugongshou110/MeiTuanRefreshListView" ADD_DATE="96440789165">MeiTuanRefreshListView(仿美团下拉刷新)</A>
 <DT><A HREF="https://github.com/bulletnoid/StaggeredGridView" ADD_DATE="97904862771">bulletnoid/StaggeredGridView · GitHub</A>
 <DT><A HREF="https://github.com/TonicArtos/StickyGridHeaders" ADD_DATE="97904862771">TonicArtos/StickyGridHeaders · GitHub</A>
 <DT><A HREF="https://github.com/felipecsl/AsymmetricGridView" ADD_DATE="96440789165">felipecsl/AsymmetricGridView(横竖个数都不定的GridView)</A>
