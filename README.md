@@ -30,14 +30,6 @@
 </DL><P>
 
 
-<DT><H3 FOLDED ADD_DATE="97904862771">开发工具Plugin</H3>
-<DL><P>
-<DT><A HREF="https://github.com/dmytrodanylyk/folding-plugin" ADD_DATE="97904862771">dmytrodanylyk/folding-plugin(AS文件分组显示)</A>
-<DT><A HREF="https://github.com/FelisCatus/SwitchyOmega" ADD_DATE="97904862771">FelisCatus/SwitchyOmega(Chrome代理插件)</A>
-<DT><A HREF="https://github.com/buunguyen/octotree" ADD_DATE="97904862771">buunguyen/octotree(树形展示Github项目代码)</A>
-</DL><P>
-
-
 <DT><H3 FOLDED ADD_DATE="97904862771">Android-technical-articles</H3>
 <DL><P>
 <DT><A HREF="https://github.com/zmywly8866/Worth-Reading-the-Android-technical-articles" ADD_DATE="97904862771">Worth-Reading-the-Android-technical-articles</A>
@@ -68,6 +60,7 @@
 <DT><A HREF="https://github.com/KJFrame/KJMusic" ADD_DATE="96440789165">KJFrame/KJMusic(KJ音乐 Android 客户端)</A>
 <DT><A HREF="https://github.com/Splitter/android_packages_apps_apolloMod" ADD_DATE="96440789165">Splitter/apolloMod(Apollo音乐播放器)</A>
 <DT><A HREF="https://github.com/tuesda/Watch" ADD_DATE="96440789165">tuesda/Watch(Watch国外一款强大的开源项目)</A>
+<DT><A HREF="https://github.com/JayFang1993/ScanBook" ADD_DATE="96440789165">JayFang1993/ScanBook(ScanBook完整阅读软件)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">Android插件化开发</H3>
