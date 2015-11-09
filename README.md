@@ -303,6 +303,7 @@
 <DT><A HREF="https://github.com/panwrona/DownloadProgressBar" ADD_DATE="96440789165">panwrona/DownloadProgressBar(不错的下载进度条)</A>
 <DT><A HREF="https://github.com/fenjuly/SpinnerLoader" ADD_DATE="96440789165">fenjuly/SpinnerLoader(不错的progressBar)</A>
 <DT><A HREF="https://github.com/fenjuly/CombinationImageView" ADD_DATE="96440789165">fenjuly/CombinationImageView(仿微信多人聊天的头像显示)</A>
+<DT><A HREF="https://github.com/kongnanlive/android-combination-avatar" ADD_DATE="96440789165">kongnanlive/android-combination-avatar(仿QQ讨论组头像)</A>
 <DT><A HREF="https://github.com/florent37/Carpaccio" ADD_DATE="96440789165">florent37/Carpaccio(Data Mapping & Smarter Views framework )</A>
 <DT><A HREF="https://github.com/Kyson/WhorlView" ADD_DATE="96440789165">Kyson/WhorlView(Progressbar with whorl style)</A>
 <DT><A HREF="https://github.com/konifar/fab-transformation" ADD_DATE="96440789165">konifar/fab-transformation(Floating Action Button transformation )</A>
