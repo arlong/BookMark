@@ -61,6 +61,8 @@
 <DT><A HREF="https://github.com/Splitter/android_packages_apps_apolloMod" ADD_DATE="96440789165">Splitter/apolloMod(Apollo音乐播放器)</A>
 <DT><A HREF="https://github.com/tuesda/Watch" ADD_DATE="96440789165">tuesda/Watch(Watch国外一款强大的开源项目)</A>
 <DT><A HREF="https://github.com/JayFang1993/ScanBook" ADD_DATE="96440789165">JayFang1993/ScanBook(ScanBook完整阅读软件)</A>
+<DT><A HREF="https://github.com/googlesamples/android-topeka" ADD_DATE="96440789165">googlesamples/android-topeka(topeka客户端)</A>
+<DT><A HREF="https://github.com/nickbutcher/plaid" ADD_DATE="96440789165">nickbutcher/plaid(plaid客户端)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">Android插件化开发</H3>
