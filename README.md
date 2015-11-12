@@ -191,7 +191,8 @@
 <DT><A HREF="https://github.com/linroid/Sky31Radio" ADD_DATE="96440789165">Sky31Radio</A>
 <DT><A HREF="https://github.com/MostafaGazar/CustomShapeImageView" ADD_DATE="96440789165">CustomShapeImageView</A>
 <DT><A HREF="https://github.com/siyamed/android-shape-imageview" ADD_DATE="96440789165">android-shape-imageview</A>
-<DT><A HREF="https://github.com/davidschreiber/FancyCoverFlow" ADD_DATE="96440789165">FancyCoverFlow</A>
+<DT><A HREF="https://github.com/davidschreiber/FancyCoverFlow" ADD_DATE="96440789165">davidschreiber/FancyCoverFlow</A>
+<DT><A HREF="https://github.com/LittleLiByte/GlFancyCoverFlow" ADD_DATE="96440789165">LittleLiByte/GlFancyCoverFlow</A>
 <DT><A HREF="https://github.com/moondroid/CoverFlow" ADD_DATE="96440789165">moondroid/CoverFlow</A>
 <DT><A HREF="https://github.com/w446108264/XhsEmoticonsKeyboard" ADD_DATE="96440789165">XhsEmoticonsKeyboard</A>
 <DT><A HREF="https://github.com/chenupt/SpringIndicator" ADD_DATE="96440789165">chenupt/SpringIndicator</A>
