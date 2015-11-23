@@ -334,6 +334,7 @@
 <DT><A HREF="https://github.com/Bossyao168/RotateMenu" ADD_DATE="96440789165">Bossyao168/RotateMenu(简单地旋转菜单控件,要5.0+)</A>
 <DT><A HREF="https://github.com/Bossyao168/StackOverView" ADD_DATE="96440789165">Bossyao168/StackOverView(Android 5.0 任务管理器控件,自定义Overview 控件)</A>
 <DT><A HREF="https://github.com/timehop/sticky-headers-recyclerview" ADD_DATE="96440789165">timehop/sticky-headers-recyclerview(recycleview实现group顶部固定)</A>
+<DT><A HREF="https://github.com/Syehunter/RecyclerViewManager" ADD_DATE="96440789165">Syehunter/RecyclerViewManager(RecyclerView下拉刷新和上拉加载)</A>
 <DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
 <DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
 <DT><A HREF="https://github.com/mxn21/FlowingDrawer" ADD_DATE="96440789165">mxn21/FlowingDrawer(swipe right to display drawer with flowing effects,果冻效果)</A>
@@ -342,4 +343,5 @@
 <DT><A HREF="https://github.com/Flipboard/bottomsheet" ADD_DATE="96440789165">Flipboard/bottomsheet(从下往上弹出的View)</A>
 <DT><A HREF="https://github.com/xmuSistone/android-vertical-slide-view" ADD_DATE="96440789165">xmuSistone/android-vertical-slide-view(仿淘宝商城详情页实现)</A>
 <DT><A HREF="https://github.com/81813780/AVLoadingIndicatorView" ADD_DATE="96440789165">81813780/AVLoadingIndicatorView(各种加载效果)</A>
+<DT><A HREF="https://github.com/k0shk0sh/PermissionHelper" ADD_DATE="96440789165">k0shk0sh/PermissionHelper(运行时权限申请)</A>
 </DL><P>
