@@ -346,4 +346,5 @@
 <DT><A HREF="https://github.com/k0shk0sh/PermissionHelper" ADD_DATE="96440789165">k0shk0sh/PermissionHelper(运行时权限申请)</A>
 <DT><A HREF="https://github.com/wangjinyu501/WaterWaveView" ADD_DATE="96440789165">wangjinyu501/WaterWaveView(水波效果圆形进度)</A>
 <DT><A HREF="https://github.com/lobster002/WaterWaveProgressDemo" ADD_DATE="96440789165">lobster002/WaterWaveProgressDemo(自定义波浪状进度条)</A>
+<DT><A HREF="https://github.com/zcweng/ToggleButton" ADD_DATE="96440789165">zcweng/ToggleButton(滑动开关ToggleButton)</A>
 </DL><P>
