@@ -344,4 +344,6 @@
 <DT><A HREF="https://github.com/xmuSistone/android-vertical-slide-view" ADD_DATE="96440789165">xmuSistone/android-vertical-slide-view(仿淘宝商城详情页实现)</A>
 <DT><A HREF="https://github.com/81813780/AVLoadingIndicatorView" ADD_DATE="96440789165">81813780/AVLoadingIndicatorView(各种加载效果)</A>
 <DT><A HREF="https://github.com/k0shk0sh/PermissionHelper" ADD_DATE="96440789165">k0shk0sh/PermissionHelper(运行时权限申请)</A>
+<DT><A HREF="https://github.com/wangjinyu501/WaterWaveView" ADD_DATE="96440789165">wangjinyu501/WaterWaveView(水波效果圆形进度)</A>
+<DT><A HREF="https://github.com/lobster002/WaterWaveProgressDemo" ADD_DATE="96440789165">lobster002/WaterWaveProgressDemo(自定义波浪状进度条)</A>
 </DL><P>
