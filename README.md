@@ -138,6 +138,7 @@
 <DT><A HREF="https://github.com/PoplarTang/DragGooView" ADD_DATE="97904862771">PoplarTang/DragGooView · GitHub</A>
 <DT><A HREF="https://github.com/jfeinstein10/JazzyViewPager" ADD_DATE="97904862771">jfeinstein10/JazzyViewPager · GitHub</A>
 <DT><A HREF="https://github.com/angeldevil/AutoScrollViewPager" ADD_DATE="97904862771">angeldevil/AutoScrollViewPager · GitHub</A>
+<DT><A HREF="https://github.com/Jude95/RollViewPager" ADD_DATE="97904862771">Jude95/RollViewPager（自动轮播的Viewpager）</A>
 <DT><A HREF="https://github.com/navasmdc/MaterialDesignLibrary" ADD_DATE="97904862771">navasmdc/MaterialDesignLibrary · GitHub</A>
 <DT><A HREF="https://github.com/lzyzsd/CircleProgress" ADD_DATE="97904862771">lzyzsd/CircleProgress · GitHub</A>
 <DT><A HREF="https://github.com/vieux/OpenUDID" ADD_DATE="97904862771">vieux/OpenUDID · GitHub</A>
@@ -334,6 +335,7 @@
 <DT><A HREF="https://github.com/Bossyao168/RotateMenu" ADD_DATE="96440789165">Bossyao168/RotateMenu(简单地旋转菜单控件,要5.0+)</A>
 <DT><A HREF="https://github.com/Bossyao168/StackOverView" ADD_DATE="96440789165">Bossyao168/StackOverView(Android 5.0 任务管理器控件,自定义Overview 控件)</A>
 <DT><A HREF="https://github.com/timehop/sticky-headers-recyclerview" ADD_DATE="96440789165">timehop/sticky-headers-recyclerview(recycleview实现group顶部固定)</A>
+<DT><A HREF="https://github.com/Jude95/EasyRecyclerView" ADD_DATE="96440789165">Jude95/EasyRecyclerView(recycleview封装)</A>
 <DT><A HREF="https://github.com/Syehunter/RecyclerViewManager" ADD_DATE="96440789165">Syehunter/RecyclerViewManager(RecyclerView下拉刷新和上拉加载)</A>
 <DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
 <DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
