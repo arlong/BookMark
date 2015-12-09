@@ -350,4 +350,5 @@
 <DT><A HREF="https://github.com/lobster002/WaterWaveProgressDemo" ADD_DATE="96440789165">lobster002/WaterWaveProgressDemo(自定义波浪状进度条)</A>
 <DT><A HREF="https://github.com/zcweng/ToggleButton" ADD_DATE="96440789165">zcweng/ToggleButton(滑动开关ToggleButton)</A>
 <DT><A HREF="https://github.com/daimajia/AndroidImageSlider" ADD_DATE="96440789165">daimajia/AndroidImageSlider</A>
+<DT><A HREF="https://github.com/sdaduanbilei/DashboardViewExample" ADD_DATE="96440789165">sdaduanbilei/DashboardViewExample（速度仪表进度）</A>
 </DL><P>
