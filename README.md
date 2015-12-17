@@ -299,6 +299,7 @@
 <DT><A HREF="https://github.com/frogermcs/InstaMaterial" ADD_DATE="96440789165">frogermcs/InstaMaterial(概念设计(第六部分) – 用户介绍)</A>
 <DT><A HREF="https://github.com/igortrncic/dotted-progress-bar" ADD_DATE="96440789165">igortrncic/dotted-progress-bar(圆点进度条)</A>
 <DT><A HREF="https://github.com/dm77/barcodescanner" ADD_DATE="96440789165">dm77/barcodescanner(封装好的基于zxing二维码扫描库)</A>
+<DT><A HREF="https://github.com/bingoogolapple/QRCode-Android" ADD_DATE="96440789165">bingoogolapple/QRCode-Android(二维码扫描库，参考barcodescanner)</A>
 <DT><A HREF="https://github.com/SkillCollege/QrCodeScan" ADD_DATE="96440789165">SkillCollege/QrCodeScan(二维码扫描，使用ZBar解码库)</A>
 <DT><A HREF="https://github.com/Q42/AndroidScrollingImageView" ADD_DATE="96440789165">Q42/AndroidScrollingImageView(自动滚动的ImageView)</A>
 <DT><A HREF="https://github.com/frakbot/JumpingBeans" ADD_DATE="96440789165">frakbot/JumpingBeans(会跳动的文字)</A>
