@@ -89,6 +89,7 @@
 <DT><A HREF="https://github.com/frapontillo/ImageViewEx" ADD_DATE="97904862771">frapontillo/ImageViewEx · GitHub</A>
 <DT><A HREF="https://github.com/nostra13/Android-Universal-Image-Loader" ADD_DATE="97904862771">nostra13/Android-Universal-Image-Loader(图片加载)</A>
 <DT><A HREF="https://github.com/bumptech/glide" ADD_DATE="97904862771">bumptech/glide(图片加载)</A>
+<DT><A HREF="https://github.com/suckgamony/RapidDecoder" ADD_DATE="97904862771">suckgamony/RapidDecoder(图片压缩库)</A>
 <DT><A HREF="https://github.com/GinRyan/OneXListview" ADD_DATE="97904862771">GinRyan/OneXListview · GitHub</A>
 <DT><A HREF="https://github.com/wyouflf/xUtils" ADD_DATE="97904862771">wyouflf/xUtils · GitHub</A>
 <DT><A HREF="https://github.com/wyouflf/xUtils3" ADD_DATE="97904862771">wyouflf/xUtils3 · GitHub</A>
