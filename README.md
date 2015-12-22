@@ -355,4 +355,5 @@
 <DT><A HREF="https://github.com/sdaduanbilei/DashboardViewExample" ADD_DATE="96440789165">sdaduanbilei/DashboardViewExample（速度仪表进度）</A>
 <DT><A HREF="https://github.com/lfkdsk/JustWeEngine" ADD_DATE="96440789165">lfkdsk/JustWeEngine（轻量级游戏框架）</A>
 <DT><A HREF="https://github.com/Yalantis/StarWars.Android" ADD_DATE="96440789165">Yalantis/StarWars.Android</A>
+<DT><A HREF="https://github.com/tianzhijiexian/UIBlock" ADD_DATE="96440789165">tianzhijiexian/UIBlock（代替fragment的轻量级解耦UI）</A>
 </DL><P>
