@@ -191,7 +191,8 @@
 <DT><A HREF="https://github.com/nicewarm/WeChatImageClipping" ADD_DATE="96440789165">WeChatImageClipping</A>
 <DT><A HREF="https://github.com/qiujuer/Genius-Android" ADD_DATE="96440789165">Genius-Android</A>
 <DT><A HREF="https://github.com/zarics/ZrcListView" ADD_DATE="96440789165">ZrcListView</A>
-<DT><A HREF="https://github.com/chrisbanes/PhotoView" ADD_DATE="96440789165">PhotoView</A>
+<DT><A HREF="https://github.com/chrisbanes/PhotoView" ADD_DATE="96440789165">chrisbanes/PhotoView(图片预览)</A>
+<DT><A HREF="https://github.com/boycy815/PinchImageView" ADD_DATE="96440789165">boycy815/PinchImageView(体验最好的图片手势控件，不同分辨率无缝切换，可与ViewPager结合使用)</A>
 <DT><A HREF="https://github.com/FrozenFreeFall/Android-tv-widget" ADD_DATE="96440789165">Android-tv-widget</A>
 <DT><A HREF="https://github.com/pedrovgs/TuentiTV" ADD_DATE="96440789165">TuentiTV</A>
 <DT><A HREF="https://github.com/linroid/Sky31Radio" ADD_DATE="96440789165">Sky31Radio</A>
