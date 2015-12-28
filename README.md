@@ -292,6 +292,7 @@
 <DT><A HREF="https://github.com/oli107/material-range-bar" ADD_DATE="96440789165">oli107/material-range-bar(RangeBar的Material Design风格适配)</A>
 <DT><A HREF="https://github.com/YeDaxia/WanDaoJiaIndex" ADD_DATE="96440789165">YeDaxia/WanDaoJiaIndex(仿豌豆荚首页导航)</A>
 <DT><A HREF="https://github.com/Skykai521/StickerCamera" ADD_DATE="96440789165">Skykai521/StickerCamera(集成了相机,图片裁剪,给图片贴贴图打标签的APP)</A>
+<DT><A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165">siwangqishiq/ImageEditor-Android（图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作）</A>
 <DT><A HREF="https://github.com/john990/WaveView" ADD_DATE="96440789165">john990/WaveView(波纹效果的View，可用来做 ProgressBar)</A>
 <DT><A HREF="https://github.com/lsjwzh/MaterialLoadingProgressBar" ADD_DATE="96440789165">MaterialLoadingProgressBar(Material Design进度指示器)</A>
 <DT><A HREF="https://github.com/dodola/DynamicCardLayout" ADD_DATE="96440789165">dodola/DynamicCardLayout(Windows8的瓷片布局)</A>
@@ -371,7 +372,6 @@
 <DT><A HREF="https://github.com/nomanr/ZoomTextView" ADD_DATE="96440789165">nomanr/ZoomTextView（TextView缩放显示）</A>
 <DT><A HREF="https://github.com/Xieyupeng520/AZExplosion" ADD_DATE="96440789165">Xieyupeng520/AZExplosion（模仿ExplosionField的粒子破碎效果）</A>
 <DT><A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165">siwangqishiq/DiscView（圆盘显示控件 动画展示数据）</A>
-<DT><A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165">siwangqishiq/ImageEditor-Android（图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作）</A>
 <DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
 <DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
 </DL><P>
