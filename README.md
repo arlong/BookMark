@@ -375,4 +375,5 @@
 <DT><A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165">siwangqishiq/DiscView（圆盘显示控件 动画展示数据）</A>
 <DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
 <DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
+<DT><A HREF="https://github.com/DaoKunGitHub/NiceAppDemo" ADD_DATE="96440789165">DaoKunGitHub/NiceAppDemo（仿最美应用-每日最美的钢琴律动效果）</A>
 </DL><P>
