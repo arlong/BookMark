@@ -63,6 +63,7 @@
 <DT><A HREF="https://github.com/JayFang1993/ScanBook" ADD_DATE="96440789165">JayFang1993/ScanBook(ScanBook完整阅读软件)</A>
 <DT><A HREF="https://github.com/googlesamples/android-topeka" ADD_DATE="96440789165">googlesamples/android-topeka(topeka客户端)</A>
 <DT><A HREF="https://github.com/nickbutcher/plaid" ADD_DATE="96440789165">nickbutcher/plaid(plaid客户端)</A>
+<DT><A HREF="https://github.com/architjn/Auro" ADD_DATE="96440789165">architjn/Auro(Auro音乐播放器)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">Android插件化开发</H3>
@@ -359,4 +360,8 @@
 <DT><A HREF="https://github.com/tianzhijiexian/UIBlock" ADD_DATE="96440789165">tianzhijiexian/UIBlock（代替fragment的轻量级解耦UI）</A>
 <DT><A HREF="https://github.com/hpfs0/DragScaleCircleView" ADD_DATE="96440789165">hpfs0/DragScaleCircleView（圆形拖动缩放View，头像裁剪）</A>
 <DT><A HREF="https://github.com/cpoopc/SmoothEmotionKeyBoard" ADD_DATE="96440789165">cpoopc/SmoothEmotionKeyBoard（流畅切换 输入法/表情）</A>
+<DT><A HREF="https://github.com/hanks-zyh/SmallBang" ADD_DATE="96440789165">hanks-zyh/SmallBang（twitter like animation for any view :heartbeat:）</A>
+<DT><A HREF="https://github.com/StylingAndroid/Snowfall" ADD_DATE="96440789165">StylingAndroid/Snowfall（下雪效果）</A>
+<DT><A HREF="https://github.com/asdzheng/SMRadarScanView" ADD_DATE="96440789165">asdzheng/SMRadarScanView（仿锤子系统的垃圾扫描的自定义View）</A>
+<DT><A HREF="https://github.com/nomanr/ZoomTextView" ADD_DATE="96440789165">nomanr/ZoomTextView（TextView缩放显示）</A>
 </DL><P>
