@@ -252,7 +252,7 @@
 <DT><A HREF="https://github.com/jgilfelt/SystemBarTint" ADD_DATE="96440789165">jgilfelt/SystemBarTint</A>
 <DT><A HREF="https://github.com/paveldudka/AndroidRippleDemo" ADD_DATE="96440789165">AndroidRippleDemo</A>
 <DT><A HREF="https://github.com/skyfishjy/android-ripple-background" ADD_DATE="96440789165">android-ripple-background</A>
-<DT><A HREF="https://github.com/Tibolte/ElasticDownload" ADD_DATE="96440789165">Tibolte/ElasticDownload</A>
+<DT><A HREF="https://github.com/Tibolte/ElasticDownload" ADD_DATE="96440789165">Tibolte/ElasticDownload（带数字进度的 ProgressBar）</A>
 <DT><A HREF="https://github.com/michaelye/EasyDialogDemo" ADD_DATE="96440789165">EasyDialogDemo</A>
 <DT><A HREF="https://github.com/pedant/sweet-alert-dialog" ADD_DATE="96440789165">sweet-alert-dialog</A>
 <DT><A HREF="https://github.com/wnafee/vector-compat" ADD_DATE="96440789165">vector-compat</A>
