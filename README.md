@@ -356,4 +356,5 @@
 <DT><A HREF="https://github.com/lfkdsk/JustWeEngine" ADD_DATE="96440789165">lfkdsk/JustWeEngine（轻量级游戏框架）</A>
 <DT><A HREF="https://github.com/Yalantis/StarWars.Android" ADD_DATE="96440789165">Yalantis/StarWars.Android</A>
 <DT><A HREF="https://github.com/tianzhijiexian/UIBlock" ADD_DATE="96440789165">tianzhijiexian/UIBlock（代替fragment的轻量级解耦UI）</A>
+<DT><A HREF="https://github.com/hpfs0/DragScaleCircleView" ADD_DATE="96440789165">hpfs0/DragScaleCircleView（圆形拖动View，头像裁剪）</A>
 </DL><P>
