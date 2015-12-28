@@ -159,6 +159,7 @@
 <DT><A HREF="https://github.com/wangjiegulu/DraggableFlagView" ADD_DATE="97904862771">wangjiegulu/DraggableFlagView · GitHub</A>
 <DT><A HREF="https://github.com/Diolor/Swipecards" ADD_DATE="97904862771">Diolor/Swipecards · GitHub(滑动卡片)</A>
 <DT><A HREF="https://github.com/mxn21/SlidingCard" ADD_DATE="97904862771">mxn21/SlidingCard · GitHub(滑动卡片)</A>
+<DT><A HREF="https://github.com/xmuSistone/android-card-slide-panel" ADD_DATE="97904862771">xmuSistone/android-card-slide-panel · GitHub(模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生)</A>
 <DT><A HREF="https://github.com/LitePalFramework/LitePal" ADD_DATE="97904862771">LitePalFramework/LitePal · GitHub</A>
 <DT><A HREF="https://github.com/umano/AndroidSlidingUpPanel" ADD_DATE="97904862771">umano/AndroidSlidingUpPanel · GitHub</A>
 <DT><A HREF="https://github.com/nemoTyrant/manong" ADD_DATE="97904862771">nemoTyrant/manong</A>
@@ -369,4 +370,5 @@
 <DT><A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165">siwangqishiq/DiscView（圆盘显示控件 动画展示数据）</A>
 <DT><A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165">siwangqishiq/ImageEditor-Android（图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作）</A>
 <DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
+<DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
 </DL><P>
