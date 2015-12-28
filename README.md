@@ -376,4 +376,5 @@
 <DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
 <DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
 <DT><A HREF="https://github.com/DaoKunGitHub/NiceAppDemo" ADD_DATE="96440789165">DaoKunGitHub/NiceAppDemo（仿最美应用-每日最美的钢琴律动效果）</A>
+<DT><A HREF="https://github.com/kot32go/GaussPager" ADD_DATE="96440789165">kot32go/GaussPager（高斯模糊渐变的滑动效果）</A>
 </DL><P>
