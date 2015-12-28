@@ -297,6 +297,7 @@
 <DT><A HREF="https://github.com/dodola/DynamicCardLayout" ADD_DATE="96440789165">dodola/DynamicCardLayout(Windows8的瓷片布局)</A>
 <DT><A HREF="https://github.com/Ereza/CustomActivityOnCrash" ADD_DATE="96440789165">Ereza/CustomActivityOnCrash(自定义Crash提示页面)</A>
 <DT><A HREF="https://github.com/dersoncheng/MultipleTheme" ADD_DATE="96440789165">dersoncheng/MultipleTheme(换肤／夜间模式的Android框架)</A>
+<DT><A HREF="https://github.com/hongyangAndroid/AndroidChangeSkin" ADD_DATE="96440789165">hongyangAndroid/AndroidChangeSkin(一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity)</A>
 <DT><A HREF="https://github.com/MarkMjw/TreeView" ADD_DATE="96440789165">MarkMjw/TreeView(An android ExpandListView like IOS's TreeView)</A>
 <DT><A HREF="https://github.com/gcacace/android-signaturepad" ADD_DATE="96440789165">gcacace/android-signaturepad(签名板)</A>
 <DT><A HREF="https://github.com/rizhilee/Beautyacticle" ADD_DATE="96440789165">rizhilee/Beautyacticle(好用的文字APP)</A>
