@@ -182,6 +182,7 @@
 <DT><A HREF="https://github.com/hongyangAndroid/Android-StickyNavLayout" ADD_DATE="96440789165">Android-StickyNavLayout</A>
 <DT><A HREF="https://github.com/xmuSistone/android-sticky-viewpager" ADD_DATE="96440789165">xmuSistone/android-sticky-viewpager</A>
 <DT><A HREF="https://github.com/cpoopc/ScrollableLayout" ADD_DATE="96440789165">cpoopc/ScrollableLayout</A>
+<DT><A HREF="https://github.com/ybq/ParallaxViewPager" ADD_DATE="96440789165">ybq/ParallaxViewPager</A>
 <DT><A HREF="https://github.com/habzy/GridImagePicker" ADD_DATE="96440789165">GridImagePicker</A>
 <DT><A HREF="https://github.com/nhaarman/ListViewAnimations" ADD_DATE="96440789165">ListViewAnimations</A>
 <DT><A HREF="https://github.com/wasabeef/recyclerview-animators" ADD_DATE="96440789165">recyclerview-animators</A>
@@ -364,4 +365,8 @@
 <DT><A HREF="https://github.com/StylingAndroid/Snowfall" ADD_DATE="96440789165">StylingAndroid/Snowfall（下雪效果）</A>
 <DT><A HREF="https://github.com/asdzheng/SMRadarScanView" ADD_DATE="96440789165">asdzheng/SMRadarScanView（仿锤子系统的垃圾扫描的自定义View）</A>
 <DT><A HREF="https://github.com/nomanr/ZoomTextView" ADD_DATE="96440789165">nomanr/ZoomTextView（TextView缩放显示）</A>
+<DT><A HREF="https://github.com/Xieyupeng520/AZExplosion" ADD_DATE="96440789165">Xieyupeng520/AZExplosion（模仿ExplosionField的粒子破碎效果）</A>
+<DT><A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165">siwangqishiq/DiscView（圆盘显示控件 动画展示数据）</A>
+<DT><A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165">siwangqishiq/ImageEditor-Android（图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作）</A>
+<DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
 </DL><P>
