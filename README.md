@@ -358,4 +358,5 @@
 <DT><A HREF="https://github.com/Yalantis/StarWars.Android" ADD_DATE="96440789165">Yalantis/StarWars.Android</A>
 <DT><A HREF="https://github.com/tianzhijiexian/UIBlock" ADD_DATE="96440789165">tianzhijiexian/UIBlock（代替fragment的轻量级解耦UI）</A>
 <DT><A HREF="https://github.com/hpfs0/DragScaleCircleView" ADD_DATE="96440789165">hpfs0/DragScaleCircleView（圆形拖动缩放View，头像裁剪）</A>
+<DT><A HREF="https://github.com/cpoopc/SmoothEmotionKeyBoard" ADD_DATE="96440789165">cpoopc/SmoothEmotionKeyBoard（流畅切换 输入法/表情）</A>
 </DL><P>
