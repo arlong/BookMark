@@ -344,6 +344,7 @@
 <DT><A HREF="https://github.com/Jude95/EasyRecyclerView" ADD_DATE="96440789165">Jude95/EasyRecyclerView(recycleview封装)</A>
 <DT><A HREF="https://github.com/Syehunter/RecyclerViewManager" ADD_DATE="96440789165">Syehunter/RecyclerViewManager(RecyclerView下拉刷新和上拉加载)</A>
 <DT><A HREF="https://github.com/cundong/HeaderAndFooterRecyclerView" ADD_DATE="96440789165">cundong/HeaderAndFooterRecyclerView(支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案)</A>
+<DT><A HREF="https://github.com/lsjwzh/RecyclerViewPager" ADD_DATE="96440789165">lsjwzh/RecyclerViewPager(基于RecyclerView实现的ViewPager)</A>
 <DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
 <DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
 <DT><A HREF="https://github.com/mxn21/FlowingDrawer" ADD_DATE="96440789165">mxn21/FlowingDrawer(swipe right to display drawer with flowing effects,果冻效果)</A>
