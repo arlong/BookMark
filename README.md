@@ -377,4 +377,7 @@
 <DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
 <DT><A HREF="https://github.com/DaoKunGitHub/NiceAppDemo" ADD_DATE="96440789165">DaoKunGitHub/NiceAppDemo（仿最美应用-每日最美的钢琴律动效果）</A>
 <DT><A HREF="https://github.com/kot32go/GaussPager" ADD_DATE="96440789165">kot32go/GaussPager（高斯模糊渐变的滑动效果）</A>
+<DT><A HREF="https://github.com/kazy1991/FontDrawable" ADD_DATE="96440789165">kazy1991/FontDrawable（可以将 Icon-font 转换为 Drawable 或者 Bitmap 的库）</A>
+<DT><A HREF="https://github.com/renaudcerrato/ToggleDrawable" ADD_DATE="96440789165">renaudcerrato/ToggleDrawable（一个可以让你很容易的创建基于贝塞尔曲线的 Drawable 动画的库）</A>
+<DT><A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165">Danylo2006/HashTagHelper（高亮话题标签("#example")以及捕获点击话题标签事件的库）</A>
 </DL><P>
