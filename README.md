@@ -39,7 +39,7 @@
 
 <DT><H3 FOLDED ADD_DATE="97904862771">open-source-project-analysis</H3>
 <DL><P>
-<DT><A HREF="http://codekk.com/open-source-project-analysis" ADD_DATE="97904862771">open-source-project-analysis</A>
+<DT><A HREF="http://a.wugengxin.cn/" ADD_DATE="97904862771">open-source-project-analysis</A>
 <DT><A HREF="http://malinkang.com/AndroidNote/index.html" ADD_DATE="97904862771">AndroidNote</A>
 </DL><P>
 
