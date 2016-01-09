@@ -380,4 +380,5 @@
 <DT><A HREF="https://github.com/kazy1991/FontDrawable" ADD_DATE="96440789165">kazy1991/FontDrawable（可以将 Icon-font 转换为 Drawable 或者 Bitmap 的库）</A>
 <DT><A HREF="https://github.com/renaudcerrato/ToggleDrawable" ADD_DATE="96440789165">renaudcerrato/ToggleDrawable（一个可以让你很容易的创建基于贝塞尔曲线的 Drawable 动画的库）</A>
 <DT><A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165">Danylo2006/HashTagHelper（高亮话题标签("#example")以及捕获点击话题标签事件的库）</A>
+<DT><A HREF="https://github.com/zhanyongsheng/BrokenView" ADD_DATE="96440789165">zhanyongsheng/BrokenView（给任意view添加玻璃破碎掉落的效果）</A>
 </DL><P>
