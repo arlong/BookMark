@@ -372,6 +372,8 @@
 <DT><A HREF="https://github.com/asdzheng/SMRadarScanView" ADD_DATE="96440789165">asdzheng/SMRadarScanView（仿锤子系统的垃圾扫描的自定义View）</A>
 <DT><A HREF="https://github.com/nomanr/ZoomTextView" ADD_DATE="96440789165">nomanr/ZoomTextView（TextView缩放显示）</A>
 <DT><A HREF="https://github.com/Xieyupeng520/AZExplosion" ADD_DATE="96440789165">Xieyupeng520/AZExplosion（模仿ExplosionField的粒子破碎效果）</A>
+<DT><A HREF="https://github.com/tyrantgit/ExplosionField" ADD_DATE="96440789165">tyrantgit/ExplosionField（ExplosionField的粒子破碎效果）</A>
+<DT><A HREF="https://github.com/zhanyongsheng/BrokenView" ADD_DATE="96440789165">zhanyongsheng/BrokenView（给任意view添加玻璃破碎掉落的效果）</A>
 <DT><A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165">siwangqishiq/DiscView（圆盘显示控件 动画展示数据）</A>
 <DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
 <DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
@@ -380,5 +382,4 @@
 <DT><A HREF="https://github.com/kazy1991/FontDrawable" ADD_DATE="96440789165">kazy1991/FontDrawable（可以将 Icon-font 转换为 Drawable 或者 Bitmap 的库）</A>
 <DT><A HREF="https://github.com/renaudcerrato/ToggleDrawable" ADD_DATE="96440789165">renaudcerrato/ToggleDrawable（一个可以让你很容易的创建基于贝塞尔曲线的 Drawable 动画的库）</A>
 <DT><A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165">Danylo2006/HashTagHelper（高亮话题标签("#example")以及捕获点击话题标签事件的库）</A>
-<DT><A HREF="https://github.com/zhanyongsheng/BrokenView" ADD_DATE="96440789165">zhanyongsheng/BrokenView（给任意view添加玻璃破碎掉落的效果）</A>
 </DL><P>
