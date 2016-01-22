@@ -294,6 +294,7 @@
 <DT><A HREF="https://github.com/YeDaxia/WanDaoJiaIndex" ADD_DATE="96440789165">YeDaxia/WanDaoJiaIndex(仿豌豆荚首页导航)</A>
 <DT><A HREF="https://github.com/Skykai521/StickerCamera" ADD_DATE="96440789165">Skykai521/StickerCamera(集成了相机,图片裁剪,给图片贴贴图打标签的APP)</A>
 <DT><A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165">siwangqishiq/ImageEditor-Android（图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作）</A>
+<DT><A HREF="https://github.com/jarlen/PhotoEditDemo" ADD_DATE="96440789165">jarlen/PhotoEditDemo（图片编辑，各种效果）</A>
 <DT><A HREF="https://github.com/john990/WaveView" ADD_DATE="96440789165">john990/WaveView(波纹效果的View，可用来做 ProgressBar)</A>
 <DT><A HREF="https://github.com/lsjwzh/MaterialLoadingProgressBar" ADD_DATE="96440789165">MaterialLoadingProgressBar(Material Design进度指示器)</A>
 <DT><A HREF="https://github.com/dodola/DynamicCardLayout" ADD_DATE="96440789165">dodola/DynamicCardLayout(Windows8的瓷片布局)</A>
@@ -382,4 +383,5 @@
 <DT><A HREF="https://github.com/kazy1991/FontDrawable" ADD_DATE="96440789165">kazy1991/FontDrawable（可以将 Icon-font 转换为 Drawable 或者 Bitmap 的库）</A>
 <DT><A HREF="https://github.com/renaudcerrato/ToggleDrawable" ADD_DATE="96440789165">renaudcerrato/ToggleDrawable（一个可以让你很容易的创建基于贝塞尔曲线的 Drawable 动画的库）</A>
 <DT><A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165">Danylo2006/HashTagHelper（高亮话题标签("#example")以及捕获点击话题标签事件的库）</A>
+<DT><A HREF="https://github.com/Qiaoidea/QQTipsView" ADD_DATE="96440789165">Qiaoidea/QQTipsView（仿QQ消息未读拖拽清除）</A>
 </DL><P>
