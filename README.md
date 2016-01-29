@@ -385,4 +385,5 @@
 <DT><A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165">Danylo2006/HashTagHelper（高亮话题标签("#example")以及捕获点击话题标签事件的库）</A>
 <DT><A HREF="https://github.com/Qiaoidea/QQTipsView" ADD_DATE="96440789165">Qiaoidea/QQTipsView（仿QQ消息未读拖拽清除）</A>
 <DT><A HREF="https://github.com/Yalantis/uCrop" ADD_DATE="96440789165">Yalantis/uCrop（图片裁剪）</A>
+<DT><A HREF="https://github.com/yxping/AdhesiveLoadingView" ADD_DATE="96440789165">yxping/AdhesiveLoadingView（具有粘性的滑动小球，跌落反弹形成loading的效果）</A>
 </DL><P>
