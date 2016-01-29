@@ -386,4 +386,5 @@
 <DT><A HREF="https://github.com/Qiaoidea/QQTipsView" ADD_DATE="96440789165">Qiaoidea/QQTipsView（仿QQ消息未读拖拽清除）</A>
 <DT><A HREF="https://github.com/Yalantis/uCrop" ADD_DATE="96440789165">Yalantis/uCrop（图片裁剪）</A>
 <DT><A HREF="https://github.com/yxping/AdhesiveLoadingView" ADD_DATE="96440789165">yxping/AdhesiveLoadingView（具有粘性的滑动小球，跌落反弹形成loading的效果）</A>
+<DT><A HREF="https://github.com/andyxialm/SmoothCheckBox" ADD_DATE="96440789165">andyxialm/SmoothCheckBox（带有动画效果的CheckBox）</A>
 </DL><P>
