@@ -387,4 +387,5 @@
 <DT><A HREF="https://github.com/Yalantis/uCrop" ADD_DATE="96440789165">Yalantis/uCrop（图片裁剪）</A>
 <DT><A HREF="https://github.com/yxping/AdhesiveLoadingView" ADD_DATE="96440789165">yxping/AdhesiveLoadingView（具有粘性的滑动小球，跌落反弹形成loading的效果）</A>
 <DT><A HREF="https://github.com/andyxialm/SmoothCheckBox" ADD_DATE="96440789165">andyxialm/SmoothCheckBox（带有动画效果的CheckBox）</A>
+<DT><A HREF="https://github.com/geftimov/android-pathview" ADD_DATE="96440789165">geftimov/android-pathview（通过Path或者svg动态绘制View）</A>
 </DL><P>
