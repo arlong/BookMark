@@ -65,6 +65,7 @@
 <DT><A HREF="https://github.com/googlesamples/android-topeka" ADD_DATE="96440789165">googlesamples/android-topeka(topeka客户端)</A>
 <DT><A HREF="https://github.com/nickbutcher/plaid" ADD_DATE="96440789165">nickbutcher/plaid(plaid客户端)</A>
 <DT><A HREF="https://github.com/architjn/Auro" ADD_DATE="96440789165">architjn/Auro(Auro音乐播放器)</A>
+<DT><A HREF="https://github.com/brave/browser-android" ADD_DATE="96440789165">brave/browser-android(Link Bubble Browser开源浏览器)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">Android插件化开发</H3>
