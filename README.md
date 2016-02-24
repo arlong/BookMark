@@ -392,4 +392,5 @@
 <DT><A HREF="https://github.com/andyxialm/SmoothCheckBox" ADD_DATE="96440789165">andyxialm/SmoothCheckBox（带有动画效果的CheckBox）</A>
 <DT><A HREF="https://github.com/geftimov/android-pathview" ADD_DATE="96440789165">geftimov/android-pathview（通过Path或者svg动态绘制View）</A>
 <DT><A HREF="https://github.com/rtugeek/ColorSeekBar" ADD_DATE="96440789165">rtugeek/ColorSeekBar（颜色选择SeekBar）</A>
+<DT><A HREF="https://github.com/Naoki2015/CircleDemo" ADD_DATE="96440789165">Naoki2015/CircleDemo（仿微信朋友圈）</A>
 </DL><P>
