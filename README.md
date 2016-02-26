@@ -29,6 +29,7 @@
 <DT><A HREF="https://github.com/greatfire/wiki" ADD_DATE="97904862771">greatfire/wiki(各个网站镜像站)</A>
 <DT><A HREF="http://www.androidweekly.cn/" ADD_DATE="97904862771">androidweekly(Android开发技术周报)</A>
 <DT><A HREF="https://github.com/skylot/jadx" ADD_DATE="97904862771">skylot/jadx(新一代apk反编译神器)</A>
+<DT><A HREF="https://github.com/ruijun/Android-Dev-Favorites" ADD_DATE="97904862771">ruijun/Android-Dev-Favorites(开发者的收藏夹)</A>
 </DL><P>
 
 
