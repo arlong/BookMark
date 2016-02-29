@@ -78,7 +78,7 @@
 <DT><A HREF="https://github.com/bunnyblue/OpenAtlas" ADD_DATE="97904862771">bunnyblue/OpenAtlas(非代理Android动态部署框架)</A>
 <DT><A HREF="https://github.com/limpoxe/Android-Plugin-Framework" ADD_DATE="97904862771">limpoxe/Android-Plugin-Framework(Android插件开发框架)</A>
 <DT><A HREF="https://github.com/kymjs/CJFrameForAndroid" ADD_DATE="97904862771">kymjs/CJFrameForAndroid(Android插件开发框架)</A>
-<DT><A HREF="https://github.com/Qihoo360/DroidPlugin" ADD_DATE="97904862771">Qihoo360/DroidPlugin(Android插件开发框架)</A>
+<DT><A HREF="https://github.com/Qihoo360/DroidPlugin" ADD_DATE="97904862771">Qihoo360/DroidPlugin(Android插件开发框架，Hook机制)</A>
 </DL><P>
 
 
