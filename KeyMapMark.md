@@ -27,6 +27,7 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 F4|⌃H|Type Hierarchy|查看类的继承关系
 ⌃⌘G|⌃G|Edit->Find->Select All Occurrences|Sublime Text式的多处选择
 ⇧⌘8|⇧⌘8|Column Selection Mode|列选择/块选择;按住Alt，然后拖动鼠标选择
+⌃⇧J|⌃⇧J|Join Lines|合并行和文本；1、合并两行注释，同时移除多余的// 2、合并多行字符串，移除+和双引号 3、合并字段的声明和初始化赋值
 
 
     
