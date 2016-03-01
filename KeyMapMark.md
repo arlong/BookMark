@@ -39,8 +39,7 @@ F4|⌃H|Type Hierarchy|查看类的继承关系
 #####说明：
 1. Android Studio指Mac下的1.3版，默认快捷键是Mac OS X 10.5+
 2. Eclipse快捷键指Mac下的Eclipse(Mac OS X)的快捷键
-3. 如果列表没有的快捷键，欢迎大家提到Issues中，或者按照相应格式添加到列表中
-
+3. 如果列表没有的快捷键，欢迎大家提到Issues中，或者按照相应格式添加到列表中  
 
 
 #####Mac键盘符号说明：
@@ -52,3 +51,6 @@ F4|⌃H|Type Hierarchy|查看类的继承关系
 6. ↩——Return (enter)
 7. fn——功能键就是fn
 8. ⌨——未知 (烦请会的大神赐教)
+  
+#####其他：
+[Android Studio 小技巧合集](http://laobie.github.io/android/2016/02/14/android-studio-tips.html)
