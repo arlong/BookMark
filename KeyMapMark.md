@@ -26,6 +26,7 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⇧⌘/|⇧⌘-;⇧⌘_|Collapse All|折叠全部代码
 F4|⌃H|Type Hierarchy|查看类的继承关系
 ⌃⌘G|⌃G|Edit->Find->Select All Occurrences|Sublime Text式的多处选择
+⇧⌘8|⇧⌘8|Column Selection Mode|列选择/块选择;按住Alt，然后拖动鼠标选择
 
 
     
