@@ -18,7 +18,7 @@ Eclipse快捷键|Android Studio默认快捷键|Android Studio中Action|说明
 ⌥⌘↓|无|Duplicate Line|复制当前行到下一行
 ⌥⇧R|⇧F6|Refactor->Rename...|重命名并且更新引用
 ⌘2,L|⌥⌘V|Extract->Variable...|快速产生对象变量
-⇧⌘↩|⇧⌘↩|Complete Current Statement|快速跳出括号
+⇧⌘↩|⇧⌘↩|Complete Current Statement|1、快速跳出括号 2、在行末添加一个分号，即使光标不在行末 3、为if、while、for 语句生成圆括号和大括号 4、方法声明后，添加大括号
 ⌘⇧i|⌥⌘F8|Run->Quick Evaluate Expression|Debug时快速查看变量值
 ⌥⌘+;⌥⌘=|⌥⌘+;⌥⌘=|Expand Recursively|展开代码
 ⌥⌘-;⌥⌘_|⌥⌘-;⌥⌘_|Collapse Recursively|折叠代码
