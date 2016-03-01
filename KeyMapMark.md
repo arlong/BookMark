@@ -31,6 +31,7 @@ F4|⌃H|Type Hierarchy|查看类的继承关系
 ⌃⇧J|⌃⇧J|Join Lines|合并行和文本；1、合并两行注释，同时移除多余的// 2、合并多行字符串，移除+和双引号 3、合并字段的声明和初始化赋值
 ⌥⌘Z|⌥⌘T|Surround With...|包裹代码,通常是if语句，循环，try/catch语句或者runnable语句
 无|⇧⌘Del|Unwrap/Remove...|移除包裹代码，与Surround With相反
+无|⌘U|Navigate->Super Method|定位到父类或方法
 
 
     
