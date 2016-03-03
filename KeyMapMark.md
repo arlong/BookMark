@@ -39,7 +39,7 @@ F4|⌃H|Type Hierarchy|查看类的继承关系
     
     
 #####说明：
-1. Android Studio指Mac下的1.3版，默认快捷键是Mac OS X 10.5+
+1. Android Studio指Mac下的1.5版，默认快捷键是Mac OS X 10.5+
 2. Eclipse快捷键指Mac下的Eclipse(Mac OS X)的快捷键
 3. 如果列表没有的快捷键，欢迎大家提到Issues中，或者按照相应格式添加到列表中  
 
