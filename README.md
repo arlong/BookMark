@@ -402,4 +402,5 @@
 <DT><A HREF="https://github.com/alorma/TimelineView" ADD_DATE="96440789165">alorma/TimelineView（漂亮的时间轴自定义 View）</A>
 <DT><A HREF="https://github.com/Piasy/RxAndroidAudio" ADD_DATE="96440789165">Piasy/RxAndroidAudio（Android声音录制和播放封装库了）</A>
 <DT><A HREF="https://github.com/roughike/SwipeSelector" ADD_DATE="96440789165">roughike/SwipeSelector（可以左右滑动切换 item 的 Selector）</A>
+<DT><A HREF="https://github.com/chaossss/PianoView" ADD_DATE="96440789165">chaossss/PianoView（一种新的 HeaderView + RecyclerView实现方式）</A>
 </DL><P>
