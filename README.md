@@ -166,6 +166,7 @@
 <DT><A HREF="https://github.com/mxn21/SlidingCard" ADD_DATE="97904862771">mxn21/SlidingCard · GitHub(滑动卡片)</A>
 <DT><A HREF="https://github.com/xiepeijie/SwipeCardView" ADD_DATE="97904862771">xiepeijie/SwipeCardView · GitHub(滑动卡片，带渐变层叠动画的左右滑动效果)</A>
 <DT><A HREF="https://github.com/xmuSistone/android-card-slide-panel" ADD_DATE="97904862771">xmuSistone/android-card-slide-panel · GitHub(模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生)</A>
+<DT><A HREF="https://github.com/flschweiger/SwipeStack" ADD_DATE="97904862771">flschweiger/SwipeStack·GitHub(滑动卡片)</A>
 <DT><A HREF="https://github.com/LitePalFramework/LitePal" ADD_DATE="97904862771">LitePalFramework/LitePal · GitHub</A>
 <DT><A HREF="https://github.com/umano/AndroidSlidingUpPanel" ADD_DATE="97904862771">umano/AndroidSlidingUpPanel · GitHub</A>
 <DT><A HREF="https://github.com/nemoTyrant/manong" ADD_DATE="97904862771">nemoTyrant/manong</A>
