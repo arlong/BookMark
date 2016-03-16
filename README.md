@@ -270,6 +270,7 @@
 <DT><A HREF="https://github.com/Bilibili/ijkplayer" ADD_DATE="96440789165">Bilibili/ijkplayer(播放器)</A>
 <DT><A HREF="https://github.com/appunite/AndroidFFmpeg" ADD_DATE="96440789165">appunite/AndroidFFmpeg(视频播放)</A>
 <DT><A HREF="https://github.com/yixia/VitamioBundle" ADD_DATE="96440789165">yixia/VitamioBundle(视频播放)</A>
+<DT><A HREF="https://github.com/lipangit/jiecaovideoplayer" ADD_DATE="96440789165">lipangit/jiecaovideoplayer(安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI)</A>
 <DT><A HREF="https://github.com/7heaven/SHSegmentControl" ADD_DATE="96440789165">7heaven/SHSegmentControl</A>
 <DT><A HREF="https://github.com/chenqian2651489/SegmentIndicator" ADD_DATE="96440789165">SegmentIndicator</A>
 <DT><A HREF="https://github.com/diegocarloslima/ByakuGallery" ADD_DATE="96440789165">ByakuGallery</A>
