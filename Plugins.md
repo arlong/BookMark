@@ -28,6 +28,7 @@
 ### 二、其他插件
 ##### 收集的Plugin
 <DL><P>
+<DT><A HREF="https://github.com/jiang111/awesome-androidstudio-plugins" ADD_DATE="97904862771">jiang111/awesome-androidstudio-plugins(收集Android studio 常用的插件)</A>
 <DT><A HREF="https://github.com/dmytrodanylyk/folding-plugin" ADD_DATE="97904862771">dmytrodanylyk/folding-plugin(AS文件分组显示)</A>
 <DT><A HREF="https://github.com/FelisCatus/SwitchyOmega" ADD_DATE="97904862771">FelisCatus/SwitchyOmega(Chrome代理插件)</A>
 <DT><A HREF="https://github.com/buunguyen/octotree" ADD_DATE="97904862771">buunguyen/octotree(树形展示Github项目代码)</A>
