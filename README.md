@@ -409,4 +409,5 @@
 <DT><A HREF="https://github.com/chaossss/PianoView" ADD_DATE="96440789165">chaossss/PianoView（一种新的 HeaderView + RecyclerView实现方式）</A>
 <DT><A HREF="https://github.com/fishCoder/InstrumentPanelView" ADD_DATE="96440789165">fishCoder/InstrumentPanelView（高光效果的仪表盘控件）</A>
 <DT><A HREF="https://github.com/CaMnter/EasyCountDownTextureView" ADD_DATE="96440789165">CaMnter/EasyCountDownTextureView（仿淘宝抢购倒计时）</A>
+<DT><A HREF="https://github.com/Nightonke/BoomMenu" ADD_DATE="96440789165">Nightonke/BoomMenu（爆炸式Menu）</A>
 </DL><P>
