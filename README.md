@@ -410,4 +410,5 @@
 <DT><A HREF="https://github.com/fishCoder/InstrumentPanelView" ADD_DATE="96440789165">fishCoder/InstrumentPanelView（高光效果的仪表盘控件）</A>
 <DT><A HREF="https://github.com/CaMnter/EasyCountDownTextureView" ADD_DATE="96440789165">CaMnter/EasyCountDownTextureView（仿淘宝抢购倒计时）</A>
 <DT><A HREF="https://github.com/Nightonke/BoomMenu" ADD_DATE="96440789165">Nightonke/BoomMenu（爆炸式Menu）</A>
+<DT><A HREF="https://github.com/shts/TriangleLabelView" ADD_DATE="96440789165">shts/TriangleLabelView（自定义三角标签 View）</A>
 </DL><P>
