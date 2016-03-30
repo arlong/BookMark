@@ -414,4 +414,5 @@
 <DT><A HREF="https://github.com/saiff35/LivingTabs" ADD_DATE="96440789165">saiff35/LivingTabs（仿 Youtube Gaming Tabs 滑动效果）</A>
 <DT><A HREF="https://github.com/Jacksgong/JKeyboardPanelSwitch" ADD_DATE="96440789165">Jacksgong/JKeyboardPanelSwitch（Android键盘面板冲突 布局闪动处理方案）</A>
 <DT><A HREF="https://github.com/Nightonke/BlurLockView" ADD_DATE="96440789165">Nightonke/BlurLockView（毛玻璃效果的解锁界面，仿IOS解锁界面）</A>
+<DT><A HREF="https://github.com/markzhai/LyricView" ADD_DATE="96440789165">markzhai/LyricView（lrc 歌词显示控件）</A>
 </DL><P>
