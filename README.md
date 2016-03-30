@@ -412,4 +412,5 @@
 <DT><A HREF="https://github.com/Nightonke/BoomMenu" ADD_DATE="96440789165">Nightonke/BoomMenu（爆炸式Menu）</A>
 <DT><A HREF="https://github.com/shts/TriangleLabelView" ADD_DATE="96440789165">shts/TriangleLabelView（自定义三角标签 View）</A>
 <DT><A HREF="https://github.com/saiff35/LivingTabs" ADD_DATE="96440789165">saiff35/LivingTabs（仿 Youtube Gaming Tabs 滑动效果）</A>
+<DT><A HREF="https://github.com/Jacksgong/JKeyboardPanelSwitch" ADD_DATE="96440789165">Jacksgong/JKeyboardPanelSwitch（Android键盘面板冲突 布局闪动处理方案）</A>
 </DL><P>
