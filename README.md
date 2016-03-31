@@ -208,7 +208,7 @@
 <DT><A HREF="https://github.com/davidschreiber/FancyCoverFlow" ADD_DATE="96440789165">davidschreiber/FancyCoverFlow</A>
 <DT><A HREF="https://github.com/LittleLiByte/GlFancyCoverFlow" ADD_DATE="96440789165">LittleLiByte/GlFancyCoverFlow</A>
 <DT><A HREF="https://github.com/moondroid/CoverFlow" ADD_DATE="96440789165">moondroid/CoverFlow</A>
-<DT><A HREF="https://github.com/w446108264/XhsEmoticonsKeyboard" ADD_DATE="96440789165">XhsEmoticonsKeyboard</A>
+<DT><A HREF="https://github.com/w446108264/XhsEmoticonsKeyboard" ADD_DATE="96440789165">XhsEmoticonsKeyboard（开源表情键盘解决方案）</A>
 <DT><A HREF="https://github.com/chenupt/SpringIndicator" ADD_DATE="96440789165">chenupt/SpringIndicator</A>
 <DT><A HREF="https://github.com/pedrovgs/Algorithms" ADD_DATE="96440789165">Algorithms(常见算法问题的Java实现)</A>
 <DT><A HREF="https://github.com/stuxuhai/jpinyin" ADD_DATE="96440789165">stuxuhai/jpinyin</A>
