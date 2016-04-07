@@ -416,4 +416,5 @@
 <DT><A HREF="https://github.com/HelloVass/SmartKeyboardManager" ADD_DATE="96440789165">HelloVass/SmartKeyboardManager（优雅地切换表情键盘和软键盘）</A>
 <DT><A HREF="https://github.com/Nightonke/BlurLockView" ADD_DATE="96440789165">Nightonke/BlurLockView（毛玻璃效果的解锁界面，仿IOS解锁界面）</A>
 <DT><A HREF="https://github.com/markzhai/LyricView" ADD_DATE="96440789165">markzhai/LyricView（lrc 歌词显示控件）</A>
+<DT><A HREF="https://github.com/DevLight-Mobile-Agency/NavigationTabBar" ADD_DATE="96440789165">DevLight-Mobile-Agency/NavigationTabBar（Navigation tab bar with colorful interactions）</A>
 </DL><P>
