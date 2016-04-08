@@ -273,7 +273,7 @@
 <DT><A HREF="https://github.com/7heaven/SHSegmentControl" ADD_DATE="96440789165">7heaven/SHSegmentControl</A>
 <DT><A HREF="https://github.com/chenqian2651489/SegmentIndicator" ADD_DATE="96440789165">SegmentIndicator</A>
 <DT><A HREF="https://github.com/diegocarloslima/ByakuGallery" ADD_DATE="96440789165">ByakuGallery</A>
-<DT><A HREF="https://github.com/square/leakcanary" ADD_DATE="96440789165">leakcanary</A>
+<DT><A HREF="https://github.com/square/leakcanary" ADD_DATE="96440789165">square/leakcanary(内存泄露检测)</A>
 <DT><A HREF="https://github.com/cundong/SmartAppUpdates" ADD_DATE="96440789165">SmartAppUpdates(增量更新)</A>
 <DT><A HREF="https://github.com/yhirano/Mp3VoiceRecorderSampleForAndroid" ADD_DATE="96440789165">Mp3VoiceRecorderSampleForAndroid(MP3录音)</A>
 <DT><A HREF="https://github.com/benniaobuguai/android-auto-scroll-viewpager" ADD_DATE="96440789165">benniaobuguai/android-auto-scroll-viewpager</A>
