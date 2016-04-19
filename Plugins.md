@@ -32,4 +32,5 @@
 <DT><A HREF="https://github.com/dmytrodanylyk/folding-plugin" ADD_DATE="97904862771">dmytrodanylyk/folding-plugin(AS文件分组显示)</A>
 <DT><A HREF="https://github.com/FelisCatus/SwitchyOmega" ADD_DATE="97904862771">FelisCatus/SwitchyOmega(Chrome代理插件)</A>
 <DT><A HREF="https://github.com/buunguyen/octotree" ADD_DATE="97904862771">buunguyen/octotree(树形展示Github项目代码)</A>
+<DT><A HREF="https://github.com/carlospaulino/parrot" ADD_DATE="97904862771">carlospaulino/parrot(string资源翻译成其他其他语言的 Gradle 插件)</A>
 </DL><P>
