@@ -418,4 +418,5 @@
 <DT><A HREF="https://github.com/Nightonke/BlurLockView" ADD_DATE="96440789165">Nightonke/BlurLockView（毛玻璃效果的解锁界面，仿IOS解锁界面）</A>
 <DT><A HREF="https://github.com/markzhai/LyricView" ADD_DATE="96440789165">markzhai/LyricView（lrc 歌词显示控件）</A>
 <DT><A HREF="https://github.com/DevLight-Mobile-Agency/NavigationTabBar" ADD_DATE="96440789165">DevLight-Mobile-Agency/NavigationTabBar（Navigation tab bar with colorful interactions）</A>
+<DT><A HREF="https://github.com/cooltechworks/ScratchView" ADD_DATE="96440789165">cooltechworks/ScratchView（刮刮卡View）</A>
 </DL><P>
