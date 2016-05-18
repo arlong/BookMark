@@ -419,4 +419,5 @@
 <DT><A HREF="https://github.com/markzhai/LyricView" ADD_DATE="96440789165">markzhai/LyricView（lrc 歌词显示控件）</A>
 <DT><A HREF="https://github.com/DevLight-Mobile-Agency/NavigationTabBar" ADD_DATE="96440789165">DevLight-Mobile-Agency/NavigationTabBar（Navigation tab bar with colorful interactions）</A>
 <DT><A HREF="https://github.com/cooltechworks/ScratchView" ADD_DATE="96440789165">cooltechworks/ScratchView（刮刮卡View）</A>
+<DT><A HREF="https://github.com/frogermcs/AndroidDevMetrics" ADD_DATE="96440789165">frogermcs/AndroidDevMetrics（Android 性能度量库）</A>
 </DL><P>
