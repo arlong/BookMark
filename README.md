@@ -420,4 +420,5 @@
 <DT><A HREF="https://github.com/DevLight-Mobile-Agency/NavigationTabBar" ADD_DATE="96440789165">DevLight-Mobile-Agency/NavigationTabBar（Navigation tab bar with colorful interactions）</A>
 <DT><A HREF="https://github.com/cooltechworks/ScratchView" ADD_DATE="96440789165">cooltechworks/ScratchView（刮刮卡View）</A>
 <DT><A HREF="https://github.com/frogermcs/AndroidDevMetrics" ADD_DATE="96440789165">frogermcs/AndroidDevMetrics（Android 性能度量库）</A>
+<DT><A HREF="https://github.com/Meetic/MaryPopup" ADD_DATE="96440789165">Meetic/MaryPopup（可以给View添加展开和关闭动画效果的库）</A>
 </DL><P>
