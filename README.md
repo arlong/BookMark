@@ -422,4 +422,5 @@
 <DT><A HREF="https://github.com/frogermcs/AndroidDevMetrics" ADD_DATE="96440789165">frogermcs/AndroidDevMetrics（Android 性能度量库）</A>
 <DT><A HREF="https://github.com/Meetic/MaryPopup" ADD_DATE="96440789165">Meetic/MaryPopup（可以给View添加展开和关闭动画效果的库）</A>
 <DT><A HREF="https://github.com/mr5/icarus-android" ADD_DATE="96440789165">mr5/icarus-android（安卓富文本编辑器）</A>
+<DT><A HREF="https://github.com/venshine/GoodView" ADD_DATE="96440789165">venshine/GoodView（点赞+1效果，支持文本和图像）</A>
 </DL><P>
