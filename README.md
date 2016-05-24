@@ -424,4 +424,5 @@
 <DT><A HREF="https://github.com/Meetic/MaryPopup" ADD_DATE="96440789165">Meetic/MaryPopup（可以给View添加展开和关闭动画效果的库）</A>
 <DT><A HREF="https://github.com/mr5/icarus-android" ADD_DATE="96440789165">mr5/icarus-android（安卓富文本编辑器）</A>
 <DT><A HREF="https://github.com/venshine/GoodView" ADD_DATE="96440789165">venshine/GoodView（点赞+1效果，支持文本和图像）</A>
+<DT><A HREF="https://github.com/ImmortalZ/RadarScan" ADD_DATE="96440789165">ImmortalZ/RadarScan（雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示）</A>
 </DL><P>
