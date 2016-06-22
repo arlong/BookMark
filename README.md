@@ -83,6 +83,14 @@
 <DT><A HREF="https://github.com/Qihoo360/DroidPlugin" ADD_DATE="97904862771">Qihoo360/DroidPlugin(Android插件开发框架，Hook机制)</A>
 </DL><P>
 
+<DT><H3 FOLDED ADD_DATE="97904862772">Android热修复</H3>
+<DL><P>
+<DT><A HREF="https://github.com/alibaba/dexposed" ADD_DATE="96440789165">alibaba/dexposed(hook方法并注入自己的代码，阿里淘宝出品，支持2.3-5.0，不支持ART模式,不需重启就生效)</A>
+<DT><A HREF="https://github.com/alibaba/AndFix" ADD_DATE="96440789165">alibaba/AndFix(方法的hook，以Field为切入点。阿里支付宝出品，支持2.3-6.0,不需重启就生效)</A>
+<DT><A HREF="https://github.com/dodola/HotFix" ADD_DATE="96440789165">dodola/HotFix(利用ClassLoader的findClass的加载顺序进行替换类，腾讯空间出品，支持2.3-6.0,需重启才生效)</A>
+<DT><A HREF="https://github.com/bunnyblue/DroidFix" ADD_DATE="96440789165">bunnyblue/DroidFix(原理同HotFix)</A>
+<DT><A HREF="https://github.com/jasonross/Nuwa" ADD_DATE="96440789165">jasonross/Nuwa(原理同HotFix)</A>
+</DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
 <DL><P>
@@ -341,7 +349,6 @@
 <DT><A HREF="https://github.com/ZieIony/Carbon" ADD_DATE="96440789165">ZieIony/Carbon(MaterialLibrary兼容到Android2.2)</A>
 <DT><A HREF="https://github.com/lfkdsk/JustWeTools" ADD_DATE="96440789165">lfkdsk/JustWeTools(自定义库，包括：PaintView、CodeView、ExplorerView、ReadBookView)</A>
 <DT><A HREF="https://github.com/glomadrian/velocimeter-view" ADD_DATE="96440789165">glomadrian/velocimeter-view(测速仪效果)</A>
-<DT><A HREF="https://github.com/alibaba/AndFix" ADD_DATE="96440789165">alibaba/AndFix(hot-fix,相当于打补丁)</A>
 <DT><A HREF="https://github.com/xmuSistone/android-image-slide-panel" ADD_DATE="96440789165">xmuSistone/android-image-slide-panel(图片照片墙的加载和滑动特效)</A>
 <DT><A HREF="https://github.com/DavidPizarro/PinView" ADD_DATE="96440789165">DavidPizarro/PinView(密码框)</A>
 <DT><A HREF="https://github.com/ZhaoKaiQiang/ParticleLayout/" ADD_DATE="96440789165">ZhaoKaiQiang/ParticleLayout(左滑粒子效果)</A>
