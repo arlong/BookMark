@@ -436,4 +436,5 @@
 <DT><A HREF="https://github.com/hujiaweibujidao/yava" ADD_DATE="96440789165">hujiaweibujidao/yava（常见的30个缓动函数的实现，支持Interpolator和TypeEvaluator）</A>
 <DT><A HREF="https://github.com/zhe525069676/BgMoveViewPager" ADD_DATE="96440789165">zhe525069676/BgMoveViewPager（可全方位滑动，背景图片跟随手势滑动的ViewPager）</A>
 <DT><A HREF="https://github.com/ldoublem/LoadingView" ADD_DATE="96440789165">ldoublem/LoadingView（简单的带有各种动画效果的加载控件）</A>
+<DT><A HREF="https://github.com/HeZaiJin/SlantedTextView" ADD_DATE="96440789165">HeZaiJin/SlantedTextView（角标TextView）</A>
 </DL><P>
