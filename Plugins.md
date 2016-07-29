@@ -9,7 +9,7 @@
 * SelectorChapek for Android 插件库好多生成Selector的插件，还是这个用的最顺，按照不同状态(normal、pressed)的标准命名后，右键文件树Generate Android Selectors见inmite/android-selector-chapek · GitHub
 * Jrebel for android [官网](https://zeroturnaround.com/software/jrebel-for-android/) Android Studio 快速编译插件替代Instant Run，收费的(网上有破解版，[最新破解版获取](http://blog.lanyus.com/archives/179.html))，非常好用
 * Android Postfix Completion 可根据后缀快速完成代码，这个属于拓展吧，系统已经有这些功能，如sout、notnull等
-* BorePlugin [链接](https://github.com/boredream/BorePlugin)Android Studio 自动生成布局代码插件
+* BorePlugin [链接](https://github.com/boredream/BorePlugin) Android Studio 自动生成布局代码插件
 
 
 
