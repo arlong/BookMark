@@ -1,14 +1,15 @@
 ### 一、Android Studio 常用插件
 
 ##### 1、Android相关
-* ADB Idea ADB操作快捷菜单，快速清除数据，重启应用，卸载应用等操作<br>
-* Android Annotations 配合Annotation框架快速生成控件绑定代码，同Android ButterKnife Zeleny ，本来都是用ButterKnife，生成快速绑定代码，后面开发的都是Lib库没办法使用ButterKnife只好转Annotations库<br>
-* Android Drawable Importer 做些小应用时妈妈再也不用担心我找不到图标了~需要配合google/material-design-icons · GitHub、Android Icons使用，安装后在设置菜单多出来的选项中设置<br>
-* Android Parcelable Code Generator 如标题。快速生成Parcelable代码<br>
-* Android Accessors 按照Google官方的开发规范，类的成员变量以m开头，此插件可快速生成成员变量的set/get方法但是不带m，评论中有人指出可以通过再Settings-CodeStyle-Java-CodeGeneration中修改前缀，经查验却是更加方便。<br>
-* SelectorChapek for Android 插件库好多生成Selector的插件，还是这个用的最顺，按照不同状态(normal、pressed)的标准命名后，右键文件树Generate Android Selectors见inmite/android-selector-chapek · GitHub<br>
-* Jrebel for android [官网](https://zeroturnaround.com/software/jrebel-for-android/) Android Studio 快速编译插件替代Instant Run，收费的(网上有破解版，[最新破解版获取](http://blog.lanyus.com/archives/179.html))，非常好用<br>
-* Android Postfix Completion 可根据后缀快速完成代码，这个属于拓展吧，系统已经有这些功能，如sout、notnull等<br>
+* ADB Idea ADB操作快捷菜单，快速清除数据，重启应用，卸载应用等操作
+* Android Annotations 配合Annotation框架快速生成控件绑定代码，同Android ButterKnife Zeleny ，本来都是用ButterKnife，生成快速绑定代码，后面开发的都是Lib库没办法使用ButterKnife只好转Annotations库
+* Android Drawable Importer 做些小应用时妈妈再也不用担心我找不到图标了~需要配合google/material-design-icons · GitHub、Android Icons使用，安装后在设置菜单多出来的选项中设置
+* Android Parcelable Code Generator 如标题。快速生成Parcelable代码
+* Android Accessors 按照Google官方的开发规范，类的成员变量以m开头，此插件可快速生成成员变量的set/get方法但是不带m，评论中有人指出可以通过再Settings-CodeStyle-Java-CodeGeneration中修改前缀，经查验却是更加方便。
+* SelectorChapek for Android 插件库好多生成Selector的插件，还是这个用的最顺，按照不同状态(normal、pressed)的标准命名后，右键文件树Generate Android Selectors见inmite/android-selector-chapek · GitHub
+* Jrebel for android [官网](https://zeroturnaround.com/software/jrebel-for-android/) Android Studio 快速编译插件替代Instant Run，收费的(网上有破解版，[最新破解版获取](http://blog.lanyus.com/archives/179.html))，非常好用
+* Android Postfix Completion 可根据后缀快速完成代码，这个属于拓展吧，系统已经有这些功能，如sout、notnull等
+* BorePlugin [链接](https://github.com/boredream/BorePlugin)Android Studio 自动生成布局代码插件
 
 
 
