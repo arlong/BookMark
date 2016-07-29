@@ -30,11 +30,9 @@
 
 ### 二、其他插件
 ##### 收集的Plugin
-<DL><P>
-<DT><A HREF="https://github.com/jiang111/awesome-androidstudio-plugins" ADD_DATE="97904862771">jiang111/awesome-androidstudio-plugins(收集Android studio 常用的插件)</A>
-<DT><A HREF="https://github.com/dmytrodanylyk/folding-plugin" ADD_DATE="97904862771">dmytrodanylyk/folding-plugin(AS文件分组显示)</A>
-<DT><A HREF="https://github.com/FelisCatus/SwitchyOmega" ADD_DATE="97904862771">FelisCatus/SwitchyOmega(Chrome代理插件)</A>
-<DT><A HREF="https://github.com/buunguyen/octotree" ADD_DATE="97904862771">buunguyen/octotree(树形展示Github项目代码)</A>
-<DT><A HREF="https://github.com/carlospaulino/parrot" ADD_DATE="97904862771">carlospaulino/parrot(string资源翻译成其他其他语言的 Gradle 插件)</A>
-<DT><A HREF="https://github.com/Skykai521/ECTranslation" ADD_DATE="97904862771">Skykai521/ECTranslation(英文翻译插件，基于有道开放API)</A>
-</DL><P>
+* [jiang111/awesome-androidstudio-plugins (收集Android studio 常用的插件)](https://github.com/jiang111/awesome-androidstudio-plugins)
+* [dmytrodanylyk/folding-plugin (AS文件分组显示)](https://github.com/dmytrodanylyk/folding-plugin)
+* [FelisCatus/SwitchyOmega (Chrome代理插件)](https://github.com/FelisCatus/SwitchyOmega)
+* [buunguyen/octotree (树形展示Github项目代码)](https://github.com/buunguyen/octotree)
+* [carlospaulino/parrot (string资源翻译成其他其他语言的 Gradle 插件)](https://github.com/carlospaulino/parrot)
+* [Skykai521/ECTranslation (英文翻译插件，基于有道开放API)](https://github.com/Skykai521/ECTranslation)
