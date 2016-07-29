@@ -47,11 +47,6 @@
 <DT><A HREF="http://malinkang.com/AndroidNote/index.html" ADD_DATE="97904862771">AndroidNote</A>
 </DL><P>
 
-<DT><H3 FOLDED ADD_DATE="97904862771">Issues Open</H3>
-<DL><P>
-<DT><A HREF="https://github.com/android-cn/interview-questions" ADD_DATE="97904862771">interview-questions</A>
-</DL><P>
-
 <DT><H3 FOLDED ADD_DATE="97904862771">Open-App</H3>
 <DL><P>
 <DT><A HREF="https://github.com/eoecn/android-app" ADD_DATE="96440789165">eoecn/android-app(eoe)</A>
