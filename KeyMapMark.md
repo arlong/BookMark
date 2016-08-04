@@ -32,6 +32,8 @@ F4|⌃H|Type Hierarchy|查看类的继承关系
 ⌥⌘Z|⌥⌘T|Surround With...|包裹代码,通常是if语句，循环，try/catch语句或者runnable语句
 无|⇧⌘Del|Unwrap/Remove...|移除包裹代码，与Surround With相反
 无|⌘U|Navigate->Super Method|定位到父类或方法
+⇧⌘H|⇧⌘H|Navigate->Method Hierarchy|方法继承或者实现关系
+⌃⌥H|⌃⌥H|Navigate->Call Hierarchy|方法调用关系
 
 
     
