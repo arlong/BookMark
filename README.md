@@ -86,6 +86,7 @@
 <DT><A HREF="https://github.com/bunnyblue/DroidFix" ADD_DATE="96440789165">bunnyblue/DroidFix(原理同HotFix)</A>
 <DT><A HREF="https://github.com/jasonross/Nuwa" ADD_DATE="96440789165">jasonross/Nuwa(原理同HotFix)</A>
 <DT><A HREF="https://github.com/zzz40500/Tinker_imitator" ADD_DATE="96440789165">zzz40500/Tinker_imitator(全量替换新的Dex，微信的解决方案，第三方出品，支持2.3-6.0，需重启才生效)</A>
+<DT><A HREF="https://github.com/dodola/AnoleFix" ADD_DATE="96440789165">dodola/AnoleFix(另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似，支持4.0-7.0，不需重启就生效)</A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
