@@ -30,6 +30,7 @@
 <DT><A HREF="http://www.androidweekly.cn/" ADD_DATE="97904862771">androidweekly(Android开发技术周报)</A>
 <DT><A HREF="https://github.com/skylot/jadx" ADD_DATE="97904862771">skylot/jadx(新一代apk反编译神器)</A>
 <DT><A HREF="https://github.com/ruijun/Android-Dev-Favorites" ADD_DATE="97904862771">ruijun/Android-Dev-Favorites(开发者的收藏夹)</A>
+<DT><A HREF="https://github.com/jiang111/awesome-android-tips" ADD_DATE="97904862771">awesome-android-tips(总结 Android 开发中一些很有用但你不知道的方法)</A>
 </DL><P>
 
 
