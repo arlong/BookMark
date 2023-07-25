@@ -34,6 +34,8 @@ F4|⌃H|Type Hierarchy|查看类的继承关系
 无|⌘U|Navigate->Super Method|定位到父类或方法
 ⇧⌘H|⇧⌘H|Navigate->Method Hierarchy|方法继承或者实现关系
 ⌃⌥H|⌃⌥H|Navigate->Call Hierarchy|方法调用关系
+⌥↓|⇧⌘↓|Code->Move Statement Down|移动当前表达式到下面
+⌥↑|⇧⌘↑|Code->Move Statement Up|移动当前表达式到上面
 
 
     
