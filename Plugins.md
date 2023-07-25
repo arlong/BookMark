@@ -36,3 +36,4 @@
 * [buunguyen/octotree (树形展示Github项目代码)](https://github.com/buunguyen/octotree)
 * [carlospaulino/parrot (string资源翻译成其他其他语言的 Gradle 插件)](https://github.com/carlospaulino/parrot)
 * [Skykai521/ECTranslation (英文翻译插件，基于有道开放API)](https://github.com/Skykai521/ECTranslation)
+* [Insight.io for Github (最好的GitHub代码浏览插件)](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh/) [<u>说明地址</u>](http://www.geeksense.cn/plugin/?utm_source=androidweekly.cn&utm_medium=website)
