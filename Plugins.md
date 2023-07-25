@@ -34,6 +34,7 @@
 * [dmytrodanylyk/folding-plugin (AS文件分组显示)](https://github.com/dmytrodanylyk/folding-plugin)
 * [FelisCatus/SwitchyOmega (Chrome代理插件)](https://github.com/FelisCatus/SwitchyOmega)
 * [buunguyen/octotree (树形展示Github项目代码)](https://github.com/buunguyen/octotree)
+* [Sourcegraph (Github项目代码像IDE上常用的功能操作)](https://link.jianshu.com/?t=https://chrome.google.com/webstore/detail/sourcegraph-for-github/dgjhfomjieaadpoljlnidmbgkdffpack)
 * [carlospaulino/parrot (string资源翻译成其他其他语言的 Gradle 插件)](https://github.com/carlospaulino/parrot)
 * [Skykai521/ECTranslation (英文翻译插件，基于有道开放API)](https://github.com/Skykai521/ECTranslation)
 * [Insight.io for Github (最好的GitHub代码浏览插件)](https://chrome.google.com/webstore/detail/insightio-for-github/pmhfgjjhhomfplgmbalncpcohgeijonh/) [<u>说明地址</u>](http://www.geeksense.cn/plugin/?utm_source=androidweekly.cn&utm_medium=website)
